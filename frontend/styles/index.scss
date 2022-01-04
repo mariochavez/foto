@@ -1,3 +1,6 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
 $body-background: #fafafa;
 $body-color: #444;
 
@@ -11,7 +14,4 @@ h1, nav, footer {
   text-align: center;
 }
 
-main {
-  margin: 4rem auto;
-  max-width: 60rem;
-}
+@import "tailwindcss/utilities";

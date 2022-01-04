@@ -44,7 +44,16 @@ const cssRules = {
         url: url => !url.startsWith('/'),
         importLoaders: 1
       }
-    }
+    },
+    "postcss-loader",
+    {
+      loader: "sass-loader",
+      options: {
+        sassOptions: {
+          includePaths: [path.resolve(__dirname, "src/_components")],
+        },
+      },
+    },
   ],
   mode: 'sass',
 
