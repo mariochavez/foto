@@ -1,3 +1,5 @@
+import { Turbo } from "@hotwired/turbo-rails"
+
 import "index.scss"
 
 // Import all javascript files from src/_components

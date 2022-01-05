@@ -3,7 +3,10 @@
 
 layout: home
 ---
-<div class="relative">
-  <img class="w-full h-full object-cover" src="/images/home-1.jpg" alt="Imágen del home">
-  <p class="absolute bottom-2 right-2 text-white bg-black bg-opacity-25 p-2 rounded-sm">Baja California Sur &copy; Mario Alberto Chávez</p>
+<div class="relative" data-controller="home">
+  {% for photo in site.data.home %}
+    <div class="hidden" data-name="{{ photo.name }}" data-src="{{ photo.src }}" data-home-target="photo"></div>
+  {% endfor %}
+  <img class="w-full h-full object-cover p-6" src="/images/home-1.jpg" alt="Imágen del home" data-home-target="image">
+  <p class="absolute bottom-8 right-8 text-white bg-black bg-opacity-25 p-2 rounded-sm" data-home-target="caption">Baja California Sur &copy; Mario Alberto Chávez</p>
 </div>

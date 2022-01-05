@@ -3,16 +3,15 @@
   <head>
     {% render "head", metadata: site.metadata, title: page.title %}
   </head>
-  <body class="{{ page.layout }} {{ page.page_class }} font-inter antialiased" data-controller="home">
-    <main class="lg:relative">
+  <body class="{{ page.layout }} {{ page.page_class }} font-inter antialiased">
+    <div class="start flex w-full h-screen justify-center items-center initial-text">
+      <h1 class="text-gray-900 text-3xl font-bold"><span class="text1">My</span> <span class="text2">Photography</span></h1>
+    </div>
+    <main class="lg:relative initial-content">
       <div class="mx-auto w-full h-screen flex flex-row">
         <div class="px-4 sm:px-8 xl:pr-8">
-          <a href="/">
-            <img class="h-6 w-auto mt-4" src="/images/mario-chavez.png" alt="Mario Chávez">
-          </a>
           {% render "navbar", metadata: site.metadata, page: page, projects: collections.projects.resources %}
         </div>
-{{ collections.data.resources}}
         {{ content }}
       </div>
     </main>
