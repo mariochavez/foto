@@ -50,7 +50,7 @@ jobs:
       - name: "Fix assets paths"
         run: |
           mv output/_bridgetown/static ./output/assets
-          find output/ -name '*.html' -exec sed -ie 's/_bridgetown\//assets/' {} \;
+          find output/ -name '*.html' -exec sed -ie 's/_bridgetown\/static\//assets\//' {} \;
           find output/ -name '*.htmle' -exec rm {} \;
 
       - name: Deploy to GitHub Pages
@@ -59,6 +59,8 @@ jobs:
         with:
           target_branch: gh-pages
           build_dir: output
+          keep_history: true
+          fqdn: foto.mariochavez.io
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
