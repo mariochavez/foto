@@ -8,3 +8,6 @@ application.register("reveal", RevealController)
 
 import ModalController from "./modal_controller"
 application.register("modal", ModalController)
+
+import MobileMenuController from "./mobile_menu_controller"
+application.register("mobile-menu", MobileMenuController)

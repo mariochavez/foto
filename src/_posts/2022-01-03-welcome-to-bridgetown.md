@@ -2,6 +2,7 @@
 layout: post
 title:  "Your First Post on Bridgetown"
 date:   2022-01-03 15:09:22 -0600
+sitemap: false
 categories: updates
 ---
 

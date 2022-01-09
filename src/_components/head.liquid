@@ -1,13 +1,17 @@
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 {% capture page_title %}{{ title | strip_html | strip_newlines }}{% endcapture %}
+
 <title>{% if page_title != "Index" %}{{ page_title | escape }} | {{ metadata.title | escape }}{% else %}{{ metadata.title | escape }}: {{ metadata.tagline | escape }}{% endif %}</title>
+<meta name="description" content="{{ metadata.description }}" />
+
+{% seo %}
+{% feed_meta %}
+<link type="application/atom+xml" rel="alternate" href="{{ url | append: '/feed/projects.xml' }}" title="{{ metadata.title }}">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
-
-<meta name="description" content="{{ metadata.description }}" />
 
 <link rel="stylesheet" href="{% webpack_path css %}" data-turbo-track="reload" />
 <script src="{% webpack_path js %}" defer data-turbo-track="reload"></script>

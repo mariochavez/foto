@@ -1,16 +1,18 @@
 <!doctype html>
 <html lang="{{ site.locale }}">
   <head>
-    {% render "head", metadata: site.metadata, title: page.title %}
+    {% render "head", url: site.url, metadata: site.metadata, title: page.title %}
   </head>
   <body class="{{ page.layout }} {{ page.page_class }} font-inter antialiased" data-controller="modal">
     <main class="lg:relative">
+      {% render "mobile_navbar", metadata: site.metadata, page: page, projects: collections.projects.resources %}
+
       <div class="w-full flex flex-row">
-        <div class="px-4 sm:px-8 xl:pr-8 relative w-64 hidden lg:block">
+        <div class="px-4 sm:px-8 xl:pr-8 relative w-[20rem] hidden lg:block">
           {% render "navbar", metadata: site.metadata, page: page, projects: collections.projects.resources %}
         </div>
 
-        <div class="max-w-8xl w-full bg-blue mx-auto px-4 sm:px-6 md:px-8">
+        <div class="max-w-3xl lg:max-w-7xl w-full bg-blue mx-auto px-4 sm:px-6 md:px-8">
           {{ content }}
         </div>
       </div>

@@ -1,6 +1,7 @@
 ---
 layout: project
 title:  "Fragmentos Urbanos"
+description: Urban Fragments is a visual project about how those of us who inhabit a city appropriate the public space, in search of our comfort, barely visible small changes, others more intrusive.
 position: 2
 ---
 

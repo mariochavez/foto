@@ -14,7 +14,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://foto.mariochavez.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 permalink: pretty
 
@@ -23,6 +23,10 @@ collections:
     output: true
     sort_by: position
     sort_direction: descending
+
+feed:
+  collections:
+    - projects
 
 # Other options you might want to investigate:
 #
