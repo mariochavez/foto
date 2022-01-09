@@ -1,4 +1,11 @@
-image: ruby:2.6
+
+name: "Build pages"
+
+on: [push]
+
+env:
+  RUBY_VERSION: 3.0.2
+
 
 cache:
   paths:
