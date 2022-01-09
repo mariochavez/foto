@@ -47,6 +47,12 @@ jobs:
         run: |
           bundle exec bridgetown build
 
+      - name: "Fix assets paths"
+        run: |
+          mv _bridgetown/static ./assets
+          find assets/ -name '*.html' -exec sed -ie 's/_bridgetown\///' {} \;
+          find assets/ -name '*.htmle' -exec rm {} \;
+
       - name: Deploy to GitHub Pages
         if: success()
         uses: crazy-max/ghaction-github-pages@v2
