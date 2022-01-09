@@ -1,0 +1,28 @@
+image: ruby:2.6
+
+cache:
+  paths:
+  - vendor
+
+pages:
+  script:
+  - apt-get update -yqqq
+  - curl -sL https://deb.nodesource.com/setup_12.x | bash -
+  - curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | apt-key add -
+  - echo "deb https://dl.yarnpkg.com/debian/ stable main" | tee /etc/apt/sources.list.d/yarn.list
+  - apt update
+  - apt-get install -y nodejs yarn
+  - export GEM_HOME=$PWD/gems
+  - export PATH=$PWD/gems/bin:$PATH
+  - gem install bundler
+  - gem install bridgetown -N -v 1.0.0.alpha11
+  - bundle install
+  - yarn install
+  - yarn webpack --mode production
+  - bundle exec bridgetown build --base_path foto --url https://foto.mariochavez.io
+  - mv output public
+  artifacts:
+    paths:
+    - public
+  only:
+  - main
