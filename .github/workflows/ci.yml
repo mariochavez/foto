@@ -14,12 +14,19 @@ jobs:
     name: "Build"
     runs-on: ubuntu-latest
     steps:
-      - name: Cache vendro
+      - name: Cache vendor
         id: cache-vendor
         uses: actions/cache@v2
         with:
           path: vendor
           key: ${{ runner.os }}-vendor
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: ${{env.RUBY_VERSION}}
+          bundler-cache: true
+          cache-version: 1
 
       - name: "Bundle install"
         run: |
