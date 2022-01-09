@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0.alpha11">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-01-09T19:22:53+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives and works in Colima México where he on personal photography projects about territory, and popular culture.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Fragmentos Urbanos</title><link href="https://foto.mariochavez.io/projects/fragmentos-urbanos/" rel="alternate" type="text/html" title="Fragmentos Urbanos" /><published>2022-01-09T19:22:53+00:00</published><updated>2022-01-09T19:22:53+00:00</updated><id>repo://projects.collection/_projects/fragmentos-urbanos.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/fragmentos-urbanos/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0.alpha11">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-01-09T19:28:05+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives and works in Colima México where he on personal photography projects about territory, and popular culture.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Fragmentos Urbanos</title><link href="https://foto.mariochavez.io/projects/fragmentos-urbanos/" rel="alternate" type="text/html" title="Fragmentos Urbanos" /><published>2022-01-09T19:28:05+00:00</published><updated>2022-01-09T19:28:05+00:00</updated><id>repo://projects.collection/_projects/fragmentos-urbanos.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/fragmentos-urbanos/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
   &lt;p&gt;
     Fragmentos Urbanos es un proyecto visual acerca de como quienes habitamos una ciudad nos apropiamos del espacio público, en busca de nuestra comodidad, cambios pequeños apenas visibles, otras mas intrusivas.
   &lt;/p&gt;
@@ -19,7 +19,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20210321-DSCF1934.jpg&quot; alt=&quot;20210321-DSCF1934&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -35,7 +35,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20210605-00000767.jpg&quot; alt=&quot;20210605-00000767&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -43,7 +43,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20210608-DSCF5322.jpg&quot; alt=&quot;20210608-DSCF5322&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -51,7 +51,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20210808-DSCF7497.jpg&quot; alt=&quot;20210808-DSCF7497&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -59,7 +59,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211024-DSCF8965.jpg&quot; alt=&quot;20211024-DSCF8965&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -67,7 +67,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211024-DSCF8969.jpg&quot; alt=&quot;20211024-DSCF8969&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -83,7 +83,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211106-_06B7446.jpg&quot; alt=&quot;20211106-_06B7446&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -99,7 +99,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211106-_06B7448.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -107,7 +107,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211107-_06B8005.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -115,7 +115,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211108-_06B8020.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -123,7 +123,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211209-DSCF9391.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -131,7 +131,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211209-DSCF9392.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -139,7 +139,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211209-DSCF9394.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -147,7 +147,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211210-DSCF9401.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -171,7 +171,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211210-DSCF9410.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -203,7 +203,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211210-DSCF9420.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -211,11 +211,11 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/fragmentos-urbanos/20211210-DSCF9422.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
       &lt;/div&gt;
     &lt;/figure&gt;
   
-&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author></entry><entry><title type="html">Chayactes de Ixtlahuacán</title><link href="https://foto.mariochavez.io/projects/chayacates-ixtlahuacan/" rel="alternate" type="text/html" title="Chayactes de Ixtlahuacán" /><published>2022-01-09T19:22:53+00:00</published><updated>2022-01-09T19:22:53+00:00</updated><id>repo://projects.collection/_projects/chayacates-ixtlahuacan.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/chayacates-ixtlahuacan/">&lt;p&gt;Chayactes&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author></entry></feed>
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author></entry><entry><title type="html">Chayactes de Ixtlahuacán</title><link href="https://foto.mariochavez.io/projects/chayacates-ixtlahuacan/" rel="alternate" type="text/html" title="Chayactes de Ixtlahuacán" /><published>2022-01-09T19:28:05+00:00</published><updated>2022-01-09T19:28:05+00:00</updated><id>repo://projects.collection/_projects/chayacates-ixtlahuacan.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/chayacates-ixtlahuacan/">&lt;p&gt;Chayactes&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author></entry></feed>

@@ -33,11 +33,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 
-<link rel="stylesheet" href="/assetsstatic/css/main.1cf5fbfbd2d57a2599e3.css" data-turbo-track="reload" />
-<script src="/assetsstatic/js/main.c00eb132b36217699502.js" defer data-turbo-track="reload"></script>
+<link rel="stylesheet" href="/assets/css/main.1cf5fbfbd2d57a2599e3.css" data-turbo-track="reload" />
+<script src="/assets/js/main.c00eb132b36217699502.js" defer data-turbo-track="reload"></script>
 <script type="module">let lastmod = 0
 function startReloadConnection() {
-  const evtSource = new EventSource("/assetslive_reload")
+  const evtSource = new EventSource("/_bridgetown/live_reload")
   evtSource.onmessage = event => {
     if (event.data == "reloaded!") {
       location.reload()
