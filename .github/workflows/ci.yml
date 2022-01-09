@@ -21,9 +21,8 @@ jobs:
           path: vendor
           key: ${{ runner.os }}-vendor
 
-      - name: "Install bridgetown"
+      - name: "Bundle install"
         run: |
-          gem install bridgetown -N -v 1.0.0.alpha11
           bundle install
 
       - name: "Yarn install"
