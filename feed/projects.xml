@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0.alpha11">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-01-10T01:35:46+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives and works in Colima México where he on personal photography projects about territory, and popular culture.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2022-01-10T01:35:46+00:00</published><updated>2022-01-10T01:35:46+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0.alpha11">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-01-11T19:26:40+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2022-01-11T19:26:40+00:00</published><updated>2022-01-11T19:26:40+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
   &lt;p&gt;
     Caminar por las calles de casi cualquier ciudad es una oportunidad para encontrar estos &quot;hacks&quot; o apropiaciones que se realizan por necesidad, oportunismo o comodidad de quienes habitan la ciudad. Estas apropiaciones no siempre están pensadas en el bien común.
   &lt;/p&gt;
@@ -11,7 +11,7 @@
 &lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 irregular&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20220109-DSCF0810.jpg&quot; alt=&quot;20220109-DSCF0810&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -19,7 +19,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20200918-DSCF0987.jpg&quot; alt=&quot;20200918-DSCF0987&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -27,7 +27,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20210321-DSCF1934.jpg&quot; alt=&quot;20210321-DSCF1934&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -35,7 +35,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20210605-00000766.jpg&quot; alt=&quot;20210605-00000766&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -51,7 +51,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20210808-DSCF7497.jpg&quot; alt=&quot;20210808-DSCF7497&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -59,7 +59,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211024-DSCF8965.jpg&quot; alt=&quot;20211024-DSCF8965&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -67,7 +67,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211105-_06B7368.jpg&quot; alt=&quot;20211105-_06B7368&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -75,7 +75,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211106-_06B7446.jpg&quot; alt=&quot;20211106-_06B7446&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -83,7 +83,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211106-_06B7448.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -91,7 +91,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211108-_06B8020.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -99,7 +99,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9391.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -107,7 +107,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9392.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -115,7 +115,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9394.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -131,7 +131,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9402.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -139,7 +139,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9403.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -147,7 +147,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9410.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -163,7 +163,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9415.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -179,7 +179,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9420.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -187,7 +187,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9422.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Mi foto&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
