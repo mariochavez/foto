@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<div class="prose lg:prose-xl mx-auto mt-12 prose-a:text-sky-700">
+<div class="prose lg:prose-xl mx-auto mt-12 prose-a:text-sky-700 overflow-x-hidden">
   <p>From Tijuana, Baja California, Mario Alberto Chávez is a Computer Systems Engineer. He started photography in 2006 due to the constant trips resulting from his profession. His intention was only to record those places that he visited.</p>
   <p>In 2011 he moved to Colima, Colima, where he currently resides. Here he found a different photography motivation that became more personal and focused on social issues. He began working on personal photographic projects and started formal education in photography.</p>
   <p>Collaboration with the Cuatro Milpas Teatro A.C. company opens up the opportunity to make photographs of plays, from the inception to the staging on plays like "Tercia de Reinas", "Sin cerrar los ojos", "Tu Ternura Molotov", and "Salvador, el niño, el mango y la Montaña".</p>
