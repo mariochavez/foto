@@ -1,5 +1,5 @@
 module.exports = {
-  content: ["./src/**/*.{liquid,md,html}", "./frontend/javascript/**/*.js"],
+  content: ["./src/**/*.{liquid,md,html,yml}", "./frontend/javascript/**/*.js"],
   theme: {
     extend: {
       fontFamily: {

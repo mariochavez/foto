@@ -11,7 +11,7 @@ position: 1
   <div class="transition duration-500 ease-in flex flex-nowrap flex-row justify-between" data-book-target="wrapper">
     {% for page in (0..22) %}
       {% assign paddedPage = page | prepend: '00' | slice: -2, 2 %}
-      <div class="w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] bg-gray-100 book-page" data-book-target="page">
+      <div class="w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page" data-book-target="page">
         <img src="{{ "/images/chayacates/chayacates_libro/" | append: paddedPage | append: ".jpg" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
       </div>
     {% endfor %}
