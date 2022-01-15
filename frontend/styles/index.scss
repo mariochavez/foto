@@ -85,6 +85,10 @@ h1, nav, footer {
   --irregular-gutter: var(--page-gutter);
 }
 
+.large-grid figure {
+  margin-bottom: var(--page-gutter);
+}
+
 .irregular figure {
   display: inline-block;
   vertical-align: baseline;
@@ -187,6 +191,11 @@ h1, nav, footer {
 
 .modal-image {
   max-height: calc(100vh - (1.25rem * 12));
+}
+
+.book-page {
+  font-size: 0;
+  line-height: 0;
 }
 
 @import "tailwindcss/utilities";

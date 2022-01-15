@@ -23,10 +23,15 @@ collections:
     output: true
     sort_by: position
     sort_direction: descending
+  fiestas-populares:
+    output: true
+    sort_by: position
+    sort_direction: descending
 
 feed:
   collections:
     - projects
+    - fiestas-populares
 
 # Other options you might want to investigate:
 #

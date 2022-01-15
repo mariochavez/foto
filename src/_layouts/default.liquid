@@ -5,11 +5,11 @@
   </head>
   <body class="{{ page.layout }} {{ page.page_class }} font-inter antialiased" data-controller="modal">
     <main class="lg:relative">
-      {% render "mobile_navbar", metadata: site.metadata, page: page, projects: collections.projects.resources %}
+      {% render "mobile_navbar", metadata: site.metadata, page: page, collections: collections %}
 
       <div class="w-full flex flex-row">
         <div class="px-4 sm:px-8 xl:pr-8 relative w-[20rem] hidden lg:block">
-          {% render "navbar", metadata: site.metadata, page: page, projects: collections.projects.resources %}
+          {% render "navbar", metadata: site.metadata, page: page, collections: collections %}
         </div>
 
         <div class="max-w-3xl lg:max-w-7xl w-full bg-blue mx-auto px-4 sm:px-6 md:px-8">
