@@ -172,6 +172,41 @@ h1, nav, footer {
   }
 }
 
+.large figure {
+  width: 100%;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+@media (min-width: 768px) {
+  .large figure {
+    width: 100%;
+    margin-top: 8rem;
+    margin-bottom: 8rem;
+  }
+
+  .large .weight-1 {
+    margin-left: 8rem;
+  }
+  
+  .large .weight-2 {
+    margin-left: 6rem;
+    margin-right: 6rem;
+  }
+  
+  .large .weight-3 {
+    margin-right: 10rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .large figure {
+    width: 100%;
+    margin-top: 15rem;
+    margin-bottom: 15rem;
+  }
+}
+
 .reveal {
   transform: translateY(5%);
   opacity: 0;
