@@ -33,6 +33,11 @@ feed:
     - projects
     - fiestas-populares
 
+defaults:
+  -
+    values:
+      author: Mario Alberto Chávez
+
 # Other options you might want to investigate:
 #
 base_path: "/" # the subpath of your site, e.g. /blog

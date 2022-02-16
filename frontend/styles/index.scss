@@ -86,7 +86,7 @@ h1, nav, footer {
 }
 
 .large-grid figure {
-  margin-bottom: var(--page-gutter);
+  margin-bottom: 6rem; // var(--page-gutter);
 }
 
 .irregular figure {
@@ -188,12 +188,12 @@ h1, nav, footer {
   .large .weight-1 {
     margin-left: 8rem;
   }
-  
+
   .large .weight-2 {
     margin-left: 6rem;
     margin-right: 6rem;
   }
-  
+
   .large .weight-3 {
     margin-right: 10rem;
   }
