@@ -1,9 +1,7 @@
+import "index.css"
+
 import { Turbo } from "@hotwired/turbo-rails"
 
-import "index.scss"
-
-// Import all javascript files from src/_components
-const componentsContext = require.context("bridgetownComponents", true, /.js$/)
-componentsContext.keys().forEach(componentsContext)
+import components from "bridgetownComponents/**/*.{js,jsx,js.rb,css}"
 
 import "controllers"

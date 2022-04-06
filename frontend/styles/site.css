@@ -1,0 +1,231 @@
+@layer base {
+  :root {
+    --irregular-image-width: 25%;
+    --page-gutter: 3vmin;
+    --irregular-multiplier: 1.75;
+    --site-padding: 3vmin;
+  }
+
+  body {
+    @pply bg-gray-100 text-gray-800;
+    font-family: sans-serif;
+  }
+
+  h1, nav, footer {
+    @apply text-center;
+  }
+
+  /*
+  *
+  * Home page
+  *
+  */
+
+  .initial-text {
+    animation: fadeOut 1s ease-out 3.5s 1 forwards;
+  }
+
+  .text1 {
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in 1s 1 forwards;
+  }
+
+  .text2 {
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in 1.5s 1 forwards;
+  }
+
+  .text3 {
+    opacity: 0;
+    animation: fadeIn 0.5s ease-in 2.0s 1 forwards;
+  }
+
+  .initial-content {
+    opacity: 0;
+    animation: fadeIn 1s ease-in 4.5s 1 forwards;
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      height: 100vh;
+      opacity: 0;
+    }
+    100% {
+      height:0px;
+      opacity: 0;
+    }
+  }
+
+  /*
+  *
+  * Random Grid
+  *
+  */
+
+
+  .irregular {
+    --irregular-image-width: 33.33%;
+    --irregular-gutter: var(--page-gutter);
+  }
+
+  .large-grid figure {
+    margin-bottom: 6rem;
+  }
+
+  .irregular figure {
+    display: inline-block;
+    vertical-align: baseline;
+    width: 100%;
+    margin-bottom: 1.5rem;
+  }
+
+  @media (min-width: 768px) {
+    .irregular {
+      --page-gutter: 1.5vmin;
+    }
+
+    .irregular figure.weight-1 {
+      width: calc(var(--irregular-image-width) * 1);
+    }
+
+    .irregular figure.weight-2 {
+      width: calc(var(--irregular-image-width) * 1.3);
+    }
+
+    .irregular figure.weight-3 {
+      width: calc(var(--irregular-image-width) * 1.5);
+    }
+
+    .irregular figure {
+      margin-bottom: 0;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .irregular {
+      --page-gutter: 1.5vmin;
+    }
+
+    .irregular figure.weight-2 {
+      width: calc(var(--irregular-image-width) * 1.2);
+    }
+
+    .irregular figure.weight-3 {
+      width: calc(var(--irregular-image-width) * 1.3);
+    }
+  }
+
+  @media (min-width: 768px) {
+    .irregular figure:nth-child(odd) {
+      margin: calc(var(--page-gutter) * 1 * var(--irregular-multiplier));
+    }
+
+    .irregular figure:nth-child(2n) {
+      margin: calc(var(--page-gutter) * 4 * var(--irregular-multiplier));
+      margin-left: calc(var(--page-gutter) * 3 * var(--irregular-multiplier));
+    }
+
+    .irregular figure:nth-child(3n) {
+      margin-top: calc(var(--page-gutter) * 2 * var(--irregular-multiplier));
+    }
+
+    .irregular figure:nth-child(5n) {
+      margin-right: calc(var(--page-gutter) * 5 * var(--irregular-multiplier));
+      margin-left: calc(var(--page-gutter) * 5 * var(--irregular-multiplier));
+    }
+
+    .irregular figure:nth-child(7n) {
+      margin-right: calc(var(--page-gutter) * 1 * var(--irregular-multiplier));
+    }
+
+    .irregular figure:nth-child(11n) {
+      margin-right: calc(var(--page-gutter) * 6 * var(--irregular-multiplier));
+    }
+
+    .irregular figure:nth-child(13n) {
+      margin-left: calc(var(--page-gutter) * 2 * var(--irregular-multiplier));
+    }
+
+    .irregular figure:nth-child(17n) {
+      margin-left: calc(var(--page-gutter) * 3 * var(--irregular-multiplier));
+    }
+
+    .irregular figure > div {
+      --total-gutter: calc(11 * var(--site-padding));
+    }
+  }
+
+  .large figure {
+    width: 100%;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  }
+
+  @media (min-width: 768px) {
+    .large figure {
+      width: 100%;
+      margin-top: 8rem;
+      margin-bottom: 8rem;
+    }
+
+    .large .weight-1 {
+      margin-left: 8rem;
+    }
+
+    .large .weight-2 {
+      margin-left: 6rem;
+      margin-right: 6rem;
+    }
+
+    .large .weight-3 {
+      margin-right: 10rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .large figure {
+      width: 100%;
+      margin-top: 15rem;
+      margin-bottom: 15rem;
+    }
+  }
+
+  .reveal {
+    transform: translateY(5%);
+    opacity: 0;
+    animation: appear 0.5s ease-in 0.1s 1 forwards;
+  }
+
+  @keyframes appear {
+    0% {
+      transform: translateY(5%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+
+  .modal-image {
+    max-height: calc(100vh - (1.25rem * 12));
+  }
+
+  .book-page {
+    font-size: 0;
+    line-height: 0;
+  }
+}
+

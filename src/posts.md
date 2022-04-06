@@ -7,9 +7,14 @@ title: Publicaciones recientes
   <div class="mt-8 grid gap-16 pt-12 lg:grid-cols-3 lg:gap-x-5 lg:gap-y-12">
     {% for post in collections.posts.resources %}
       <div>
-        <div>
-          <a href="{{ post.relative_url }}" class="inline-block">
-            <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-sky-100 text-sky-800 hover:text-sky-900"> {{ post.categories[0] }} </span>
+        <div class="flex-shrink-0 h-40 overflow-hidden rounded-t-md relative">
+          <div class="absolute inset-0 top-2 left-2">
+            <a href="{{ post.relative_url }}" class="inline-block">
+              <span class="inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium bg-sky-100 text-sky-800 hover:text-sky-900"> {{ post.categories[0] }} </span>
+            </a>
+          </div>
+          <a href="{{ post.relative_url }}">
+            <img class="h-48 w-full object-cover" src="{{ post.image }}" alt="{{ post.title }}">
           </a>
         </div>
         <a href="{{ post.relative_url }}" class="block mt-4">

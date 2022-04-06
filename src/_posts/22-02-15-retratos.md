@@ -4,6 +4,7 @@ title:  "Retratos"
 description: Serie de retratos realizandos en diferentes momentos sin una intención de uniformidad o proyecto.
 date:   2022-02-15 12:00:00 -0600
 friendly_date: Feb 15, 2022
+image: /images/portraits/portrait-6.jpg
 categories: Portraits
 ---
 
