@@ -1,10 +1,11 @@
 import { Controller } from "@hotwired/stimulus"
 
 export default class extends Controller {
-  static targets = ["modal", "image", "title", "description"]
+  static targets = ["modal", "image", "title", "description", "container"]
 
   connect() {
     this.body = document.querySelector("body")
+    // this.images = this.containerTarget.querySelectorAll("img")
   }
 
   toggle(e) {
