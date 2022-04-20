@@ -25,7 +25,7 @@ position: 3
 
 <div class="bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded" data-controller="book">
   <div class="transition duration-500 ease-in flex flex-nowrap flex-row justify-between" data-book-target="wrapper">
-    {% for page in (0..22) %}
+    {% for page in (0..19) %}
       {% assign paddedPage = page | prepend: '00' | slice: -2, 2 %}
       <div class="w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page" data-book-target="page">
         <img src="{{ "/images/color/" | append: paddedPage | append: ".jpg" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
