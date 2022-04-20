@@ -1,20 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-04-20T16:51:53+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">El Color del Olvido</title><link href="https://foto.mariochavez.io/projects/color-del-olvido/" rel="alternate" type="text/html" title="El Color del Olvido" /><published>2022-04-20T16:51:53+00:00</published><updated>2022-04-20T16:51:53+00:00</updated><id>repo://projects.collection/_projects/color-del-olvido.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/color-del-olvido/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
-  &lt;p&gt;Recorrer caminando las calles de centro histórico de la ciudad de Colima es caminar hacia el pasado de la ciudad fundada en 1525. Este espacio, con una superficie de 1.32km2, fue designado como centro histórico en 1985. La designación protege a todo mueble e inmueble cuya construcción se haya realizado hasta el siglo XIX de alteraciones o remoción que atenten contra su carácter de memoria, monumento y/o patrimonio arquitectónico.&lt;/p&gt;
-
-  &lt;p&gt;Durante su historia el centro histórico ha sufrido de efectos naturales, sociales y económicos que han impactado la preservación del mismo. Sismos, negligencia y abandono son causantes del deterioro físico, visible y palpable al recorrer las calles de estos barrios antiguos. &lt;/p&gt;
-
-  &lt;p&gt;Esfuerzos públicos y privados se han realizado por restaurar, rescatar y modernizar el centro histórico, sin embargo, no han sido suficientes con relación a lo económico y la regulación para la preservación del patrimonio, además de que han fallado en involucrar a quienes aún lo habitan.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-  &lt;p&gt;Walking through the streets of the historic center of Colima city is like walking into the past of the town founded in 1525. With an area of 1.32km2, this space was designated as a historical center in 1985. The designation protects all furniture and property whose construction was carried out until the 19th century of alterations or removal that threaten its character of memory, monument, and architectural heritage.&lt;/p&gt;
-
-  &lt;p&gt;The historic center has suffered from natural, social and economic effects that have impacted its preservation during its history. Earthquakes, neglect, and abandonment cause physical deterioration, visible and palpable when walking the streets of these old neighborhoods.&lt;/p&gt;
-
-  &lt;p&gt;Public and private efforts have been made to restore, rescue, and modernize the historic center. However, they have not been sufficient concerning the economy and the regulation for preserving heritage and failing to involve those who still inhabit it.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-04-20T16:53:03+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">El Color del Olvido</title><link href="https://foto.mariochavez.io/projects/color-del-olvido/" rel="alternate" type="text/html" title="El Color del Olvido" /><published>2022-04-20T16:53:03+00:00</published><updated>2022-04-20T16:53:03+00:00</updated><id>repo://projects.collection/_projects/color-del-olvido.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/color-del-olvido/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
   &lt;div class=&quot;transition duration-500 ease-in flex flex-nowrap flex-row justify-between&quot; data-book-target=&quot;wrapper&quot;&gt;
     
       
@@ -121,10 +105,26 @@
   &lt;div class=&quot;absolute bottom-2 md:bottom-6 left-[43%] md:left-1/2 text-sm z-10 p-2 bg-gray-300/50 rounded text-white&quot; data-book-target=&quot;paginator&quot;&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;p class=&quot;font-sans text-xs font-semibold text-center text-gray-600 mt-4&quot;&gt;Utilice las flechas del teclado para cambiar página&lt;p&gt;
-&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/color/11.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/color/11.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tierra de los Californios</title><link href="https://foto.mariochavez.io/projects/tierra-de-los-californios/" rel="alternate" type="text/html" title="Tierra de los Californios" /><published>2022-04-20T16:51:53+00:00</published><updated>2022-04-20T16:51:53+00:00</updated><id>repo://projects.collection/_projects/tierra-de-los-californios.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/tierra-de-los-californios/">&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
+
+&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+  &lt;p&gt;Recorrer caminando las calles de centro histórico de la ciudad de Colima es caminar hacia el pasado de la ciudad fundada en 1525. Este espacio, con una superficie de 1.32km2, fue designado como centro histórico en 1985. La designación protege a todo mueble e inmueble cuya construcción se haya realizado hasta el siglo XIX de alteraciones o remoción que atenten contra su carácter de memoria, monumento y/o patrimonio arquitectónico.&lt;/p&gt;
+
+  &lt;p&gt;Durante su historia el centro histórico ha sufrido de efectos naturales, sociales y económicos que han impactado la preservación del mismo. Sismos, negligencia y abandono son causantes del deterioro físico, visible y palpable al recorrer las calles de estos barrios antiguos. &lt;/p&gt;
+
+  &lt;p&gt;Esfuerzos públicos y privados se han realizado por restaurar, rescatar y modernizar el centro histórico, sin embargo, no han sido suficientes con relación a lo económico y la regulación para la preservación del patrimonio, además de que han fallado en involucrar a quienes aún lo habitan.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+  &lt;p&gt;Walking through the streets of the historic center of Colima city is like walking into the past of the town founded in 1525. With an area of 1.32km2, this space was designated as a historical center in 1985. The designation protects all furniture and property whose construction was carried out until the 19th century of alterations or removal that threaten its character of memory, monument, and architectural heritage.&lt;/p&gt;
+
+  &lt;p&gt;The historic center has suffered from natural, social and economic effects that have impacted its preservation during its history. Earthquakes, neglect, and abandonment cause physical deterioration, visible and palpable when walking the streets of these old neighborhoods.&lt;/p&gt;
+
+  &lt;p&gt;Public and private efforts have been made to restore, rescue, and modernize the historic center. However, they have not been sufficient concerning the economy and the regulation for preserving heritage and failing to involve those who still inhabit it.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/color/11.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/color/11.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tierra de los Californios</title><link href="https://foto.mariochavez.io/projects/tierra-de-los-californios/" rel="alternate" type="text/html" title="Tierra de los Californios" /><published>2022-04-20T16:53:03+00:00</published><updated>2022-04-20T16:53:03+00:00</updated><id>repo://projects.collection/_projects/tierra-de-los-californios.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/tierra-de-los-californios/">&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 1.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -132,7 +132,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 2.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -140,7 +140,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 3.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -148,7 +148,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 4.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -156,7 +156,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 5.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -164,7 +164,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 6.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -172,7 +172,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 7.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -188,7 +188,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 9.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -196,7 +196,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 10.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -204,7 +204,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 11.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -212,7 +212,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 12.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -220,7 +220,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 13.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -236,7 +236,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 15.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -244,7 +244,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 16.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -252,7 +252,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 17.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -260,7 +260,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 18.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -303,7 +303,7 @@
   &lt;p&gt;
     Finally, in 2019 I had the opportunity of this first trip from La Paz to the north to reach Guerrero Negro and back. I made a second trip, 2020, before the closure due to the pandemic, shorter in time but with a similar route to the previous one. Both trips satisfied me and opened a new need to complete and revisit the entire Peninsula with a different vision.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2022-04-20T16:51:53+00:00</published><updated>2022-04-20T16:51:53+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2022-04-20T16:53:03+00:00</published><updated>2022-04-20T16:53:03+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
   &lt;p&gt;
     Caminar por las calles de casi cualquier ciudad es una oportunidad para encontrar estos &quot;hacks&quot; o apropiaciones que se realizan por necesidad, oportunismo o comodidad de quienes habitan la ciudad. Estas apropiaciones no siempre están pensadas en el bien común.
   &lt;/p&gt;
@@ -316,7 +316,7 @@
 &lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 irregular&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20220109-DSCF0807.jpg&quot; alt=&quot;20220109-DSCF0807&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -324,7 +324,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20220109-DSCF0810.jpg&quot; alt=&quot;20220109-DSCF0810&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -380,7 +380,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211105-_06B7368.jpg&quot; alt=&quot;20211105-_06B7368&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -388,7 +388,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211106-_06B7446.jpg&quot; alt=&quot;20211106-_06B7446&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -404,7 +404,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211108-_06B8020.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -412,7 +412,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9391.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -428,7 +428,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9394.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -436,7 +436,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9401.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -444,7 +444,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9402.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -452,7 +452,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9403.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -460,7 +460,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9410.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -468,7 +468,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9411.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -484,7 +484,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9419.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -492,7 +492,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9420.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
