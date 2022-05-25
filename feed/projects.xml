@@ -1,4 +1,97 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-04-20T16:53:03+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">El Color del Olvido</title><link href="https://foto.mariochavez.io/projects/color-del-olvido/" rel="alternate" type="text/html" title="El Color del Olvido" /><published>2022-04-20T16:53:03+00:00</published><updated>2022-04-20T16:53:03+00:00</updated><id>repo://projects.collection/_projects/color-del-olvido.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/color-del-olvido/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-05-25T22:24:07+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Nunca me voy a transformar en ti</title><link href="https://foto.mariochavez.io/projects/nunca-me-voy-a-transforma-en-ti/" rel="alternate" type="text/html" title="Nunca me voy a transformar en ti" /><published>2022-05-25T22:24:07+00:00</published><updated>2022-05-25T22:24:07+00:00</updated><id>repo://projects.collection/_projects/nunca-me-voy-a-transforma-en-ti.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/nunca-me-voy-a-transforma-en-ti/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
+  &lt;div class=&quot;transition duration-500 ease-in flex flex-nowrap flex-row justify-between&quot; data-book-target=&quot;wrapper&quot;&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/00.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/01.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/02.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/03.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/04.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/05.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/06.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/07.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/08.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/09.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/10.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/11.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/12.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/13.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+      
+      &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
+        &lt;img src=&quot;/images/nunca/14.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+  &lt;div class=&quot;absolute bottom-2 md:bottom-6 left-[43%] md:left-1/2 text-sm z-10 p-2 bg-gray-300/50 rounded text-white&quot; data-book-target=&quot;paginator&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p class=&quot;font-sans text-xs font-semibold text-center text-gray-600 mt-4&quot;&gt;Utilice las flechas del teclado para cambiar página&lt;p&gt;
+
+&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+  &lt;p&gt;Cuando somos apenas niños es común que nos hagan la pregunta de ¿Qué queremos ser cuando seamos grandes?. La respuesta puede variar entre una profesión idealizada cuando eramos niños, o quizás la misma profesión de los padres o simplemente no saber.&lt;/p&gt;
+  &lt;p&gt;Recuerdo que cuando mi hijo Alexis era pequeño, me acompañaba a las reuniones que hacía con otras personas de mi profesión &lt;i&gt;original&lt;/i&gt; para platicar de desarrollo de software, patrones de diseño, herramientas y experiencias. Era común que le preguntaran que si se iba a dedicar a lo mismo que yo, a lo que él siempre respondía que no; no sabía a qué, pero no quería estar todo el día frente a un computador.&lt;/p&gt;
+  &lt;p&gt;Es precisamente sobre esa respuesta que está basado este trabajo fotográfico que comprende &quot;Nunca me voy a transformar en ti&quot; y que está conformado por imágenes de archivo, más en el sentido de imágenes vernáculas a diferencia de un trabajo exprofeso de imagen para este fin.&lt;/p&gt;
+  &lt;p&gt;A Alexis le tocó conocer la parte de trabajo remoto que yo realizaba mucho antes de existiera lo que hoy llamanos &quot;home office&quot; o que el desarrollo de software fuera una actividad tan demandada como es hoy en día.&lt;/p&gt;
+  &lt;p&gt;Aunque nunca existió una condición explícita sobre Alexis para que se dedicara a esta carrera, nuestra historia se vida de alguna forma se encargó de que así sucediera; primero, cuando lo invité hace algunos años a aprender sobre el tema y posteriormente cuando obtuvo su primer empleo como desarrollador de software.&lt;/p&gt;
+  &lt;p&gt;La cámara y la fotografía es otro de los elementos que por varios años él me ha visto utilizar y destinar tiempo a proyectos personales de fotografía. Al igual que el desarrollo de software, Alexis, no parecía tener mucho interés en el tema.&lt;/p&gt;
+  &lt;p&gt;Hace algunos meses me mandó un mensaje preguntando sobre mi opinión referente a una cámara que le interesaba comprar. En ese momento inició su historia con la fotografía.&lt;/p&gt;
+  &lt;p&gt;Cuando inicié este proyecto se lo envié a Alexis sin decirle mucho, cuando me preguntó en cuanto al título del trabajo le comenté que era alrededor de la pregunta que le hacían de niño sobre a qué se iba a dedicar y su respuesta que no a lo que yo hacía. Me comentó que no recuerda esa respuesta pero que  hoy no la comparte.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/nunca/start.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/nunca/start.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">El Color del Olvido</title><link href="https://foto.mariochavez.io/projects/color-del-olvido/" rel="alternate" type="text/html" title="El Color del Olvido" /><published>2022-05-25T22:24:07+00:00</published><updated>2022-05-25T22:24:07+00:00</updated><id>repo://projects.collection/_projects/color-del-olvido.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/color-del-olvido/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
   &lt;div class=&quot;transition duration-500 ease-in flex flex-nowrap flex-row justify-between&quot; data-book-target=&quot;wrapper&quot;&gt;
     
       
@@ -121,10 +214,10 @@
 
   &lt;p&gt;Public and private efforts have been made to restore, rescue, and modernize the historic center. However, they have not been sufficient concerning the economy and the regulation for preserving heritage and failing to involve those who still inhabit it.&lt;/p&gt;
 &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/color/11.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/color/11.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tierra de los Californios</title><link href="https://foto.mariochavez.io/projects/tierra-de-los-californios/" rel="alternate" type="text/html" title="Tierra de los Californios" /><published>2022-04-20T16:53:03+00:00</published><updated>2022-04-20T16:53:03+00:00</updated><id>repo://projects.collection/_projects/tierra-de-los-californios.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/tierra-de-los-californios/">&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/color/11.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/color/11.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tierra de los Californios</title><link href="https://foto.mariochavez.io/projects/tierra-de-los-californios/" rel="alternate" type="text/html" title="Tierra de los Californios" /><published>2022-05-25T22:24:07+00:00</published><updated>2022-05-25T22:24:07+00:00</updated><id>repo://projects.collection/_projects/tierra-de-los-californios.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/tierra-de-los-californios/">&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 1.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -132,7 +225,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 2.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -148,7 +241,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 4.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -156,7 +249,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 5.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -164,7 +257,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 6.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -172,7 +265,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 7.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -180,7 +273,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 8.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -196,7 +289,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 10.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -204,7 +297,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 11.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -212,7 +305,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 12.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -220,7 +313,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 13.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -228,7 +321,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 14.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -236,7 +329,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 15.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -244,7 +337,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 16.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -252,7 +345,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 17.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -260,7 +353,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 18.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -303,7 +396,7 @@
   &lt;p&gt;
     Finally, in 2019 I had the opportunity of this first trip from La Paz to the north to reach Guerrero Negro and back. I made a second trip, 2020, before the closure due to the pandemic, shorter in time but with a similar route to the previous one. Both trips satisfied me and opened a new need to complete and revisit the entire Peninsula with a different vision.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2022-04-20T16:53:03+00:00</published><updated>2022-04-20T16:53:03+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2022-05-25T22:24:07+00:00</published><updated>2022-05-25T22:24:07+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
   &lt;p&gt;
     Caminar por las calles de casi cualquier ciudad es una oportunidad para encontrar estos &quot;hacks&quot; o apropiaciones que se realizan por necesidad, oportunismo o comodidad de quienes habitan la ciudad. Estas apropiaciones no siempre están pensadas en el bien común.
   &lt;/p&gt;
@@ -316,7 +409,7 @@
 &lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 irregular&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20220109-DSCF0807.jpg&quot; alt=&quot;20220109-DSCF0807&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -324,7 +417,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20220109-DSCF0810.jpg&quot; alt=&quot;20220109-DSCF0810&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -332,7 +425,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20200918-DSCF0987.jpg&quot; alt=&quot;20200918-DSCF0987&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -340,7 +433,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20210321-DSCF1934.jpg&quot; alt=&quot;20210321-DSCF1934&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -372,7 +465,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211024-DSCF8965.jpg&quot; alt=&quot;20211024-DSCF8965&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -380,7 +473,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211105-_06B7368.jpg&quot; alt=&quot;20211105-_06B7368&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -388,7 +481,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211106-_06B7446.jpg&quot; alt=&quot;20211106-_06B7446&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -396,7 +489,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211106-_06B7448.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -404,7 +497,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211108-_06B8020.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -412,7 +505,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9391.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -420,7 +513,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9392.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -436,7 +529,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9401.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -444,7 +537,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9402.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -452,7 +545,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9403.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -468,7 +561,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9411.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -476,7 +569,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9415.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -484,7 +577,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9419.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -492,7 +585,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9420.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -500,7 +593,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9422.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
