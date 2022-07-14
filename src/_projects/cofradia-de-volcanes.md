@@ -7,17 +7,27 @@ image: /images/cofradia-volcanes/cofradia-volcanes.jpg
 position: 5
 ---
 <div class="prose lg:prose-xl mx-auto mt-12">
-  <h3 class="text-center" style="margin-top: 4em !important;">Próximamente</h3>
+  <h3>Exposición fotográfica</h3>
+  <p>Viernes 12 de Agosto en la Pinacoteca Universitaria de Colima capital.</p>
+  <p>Conferencia previa a las 18:00 h.<br/>
+    Inaguración de la Exposición a las 19:00 h.<br/>
+    Entrada libre.
+  </p>
+
+  <p>Pinacoteca Universitaria<br/>
+  Calle Vicente Guerrero #35<br/>
+  Centro, Colima, México</p>
 </div>
 
-<div class="w-full flex flex-wrap justify-between mt-1 md:mt-0 large" data-controller="reveal" data-reveal-animation-class="reveal">
-  {% for photo in site.data.cofradia %}
-    {% assign weight = site.data.weights | sample %}
-    <figure class="{{ weight.class }}">
-      <div class="relative">
-        <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-        <img src="{{ photo.src }}" alt="{{ photo.name }}" data-description="{{ photo.description }}" class="w-full h-full object-contain {{ photo.options }}" loading="lazy" />
-      </div>
-    </figure>
-  {% endfor %}
+<div class="w-full mt-12" data-controller="reveal" data-reveal-animation-class="reveal">
+  <figure class="m-0 md:m-16">
+    <div class="relative">
+      <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
+      <img src="/images/cofradia-volcanes/cofradia-volcanes-0.jpg" alt="Cofradía de Volcanes" data-description="Atardecer en el Nevado" class="w-full h-full object-contain reveal" loading="lazy">
+    </div>
+  </figure>
+</div>
+
+<div class="prose lg:prose-xl mx-auto mt-12">
+  <p>Hace más de 10 años a mi llegada a la región de Jalisco y Colima, en el occidente de México, comencé a fotografiar alrededor de los volcanes Nevado y de Fuego. Inicialmente influenciado por las novelas y cuentos del realismo mágico, además de otras expresiones artísticas de la región. Posteriormente, me di cuenta de que la fotografía era una forma de reencontrarme en este territorio, una reafirmación de mi pertenencia a partir de un imaginario visual íntimo que configura mi biografía. Así es como nace este relato visual "Cofradía de Volcanes".</p>
 </div>
