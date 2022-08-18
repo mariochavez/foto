@@ -1,4 +1,4 @@
-<div class="fixed top-0">
+<div class="">
   <a href="/">
     <h2 class="text-sky-900 text-2xl mt-6 font-marcellus antialiased hover:text-gray-900">MarioChávez</h2>
   </a>
@@ -11,7 +11,9 @@
             <svg width="3" height="24" viewBox="0 -9 3 24" class="mr-2 text-gray-400 overflow-visible group-hover:text-gray-600">
               <path d="M0 0L3 3L0 6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
             </svg>
-            {{ post.title }}
+            <span>
+              {{ post.title }}
+            </span>
           </a>
         </li>
       {% endfor %}
@@ -24,7 +26,9 @@
             <svg width="3" height="24" viewBox="0 -9 3 24" class="mr-2 text-gray-400 overflow-visible group-hover:text-gray-600">
               <path d="M0 0L3 3L0 6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
             </svg>
-            {{ post.title }}
+            <span>
+              {{ post.title }}
+            </span>
           </a>
         </li>
       {% endfor %}
