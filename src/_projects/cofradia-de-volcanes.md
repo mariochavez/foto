@@ -138,6 +138,7 @@ position: 5
   <ul>
     <li>"Cofradía de volcanes, conferencia y expo de Mario Chávez, en la Pinacoteca". El Comentario - Universidad de Colima, 11/08/2022, <a href="https://elcomentario.ucol.mx/cofradia-de-volcanes-conferencia-y-expo-de-mario-chavez-en-la-pinacoteca/" target="_blank">https://elcomentario.ucol.mx/cofradia-de-volcanes-conferencia-y-expo-de-mario-chavez-en-la-pinacoteca/</a></li>
     <li>"Cofradía de volcanes llega a la Pinacoteca de la Universidad de Colima". Estación Pacífico, 12/08/2022, <a href="https://estacionpacifico.com/2022/08/12/cofradia-de-volcanes-llega-a-la-pinacoteca-de-la-universidad-de-colima/" target="_blank">https://estacionpacifico.com/2022/08/12/cofradia-de-volcanes-llega-a-la-pinacoteca-de-la-universidad-de-colima/</a></li>
-    <li>Cofradía de Volcanes, exposición fotográfica de Mario Chávez"". Agencia f/64, 12/08/2022, <a href="https://agencia.f64.io/cofradia-de-volcanes-exposicion-fotografica-de-mario-chavez" target="_blank">https://agencia.f64.io/cofradia-de-volcanes-exposicion-fotografica-de-mario-chavez</a></li>
+    <li>"Cofradía de Volcanes, exposición fotográfica de Mario Chávez". Agencia f/64, 12/08/2022, <a href="https://agencia.f64.io/cofradia-de-volcanes-exposicion-fotografica-de-mario-chavez" target="_blank">https://agencia.f64.io/cofradia-de-volcanes-exposicion-fotografica-de-mario-chavez</a></li>
+    <li>"Mario Chávez nos entrega la luz con Cofradía de volcanes". El Comentarios UdC - Sugey Navarro, 13/09/2022, <a href="https://elcomentario.ucol.mx/columna-divagaciones-de-una-mente-sin-reposo-19/" target="_blank">https://elcomentario.ucol.mx/columna-divagaciones-de-una-mente-sin-reposo-19/</a></li>
   </ul>
 </div>
