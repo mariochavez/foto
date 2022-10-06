@@ -9,10 +9,6 @@
 {% feed_meta %}
 <link type="application/atom+xml" rel="alternate" href="{{ url | append: '/feed/projects.xml' }}" title="{{ metadata.title }}">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Marcellus&display=swap&subset=latin" rel="stylesheet">
-
 <link rel="stylesheet" href="{% webpack_path css %}" data-turbo-track="reload" />
 <script src="{% webpack_path js %}" defer data-turbo-track="reload"></script>
 {% live_reload_dev_js %}
