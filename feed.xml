@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-10-05T01:24:49+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Ensenada</title><link href="https://foto.mariochavez.io/ensenada/2022/10/03/ensenada/" rel="alternate" type="text/html" title="Ensenada" /><published>2022-10-03T13:00:00+00:00</published><updated>2022-10-03T13:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-10-03-ensenada.md</id><content type="html" xml:base="https://foto.mariochavez.io/ensenada/2022/10/03/ensenada/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-10-06T19:43:37+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Ensenada</title><link href="https://foto.mariochavez.io/ensenada/2022/10/03/ensenada/" rel="alternate" type="text/html" title="Ensenada" /><published>2022-10-03T13:00:00+00:00</published><updated>2022-10-03T13:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-10-03-ensenada.md</id><content type="html" xml:base="https://foto.mariochavez.io/ensenada/2022/10/03/ensenada/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
   &lt;p&gt;Mini serie gráfica de Ensenada y la carretera escénica en una vista breve a Baja California.&lt;/p&gt;
 &lt;/div&gt;
 
@@ -6,67 +6,67 @@
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000219.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000219.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000229.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000229.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;col-span-2&quot;&gt;
     &lt;figure class=&quot;pl-12 md:pl-40 relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000231.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000231.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;col-span-2&quot;&gt;
     &lt;figure class=&quot;pl-12 md:pl-40 relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000240.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3 m-auto&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000240.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3 m-auto&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000241.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000241.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000245.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000245.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000248.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000248.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000274.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000274.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;col-span-2&quot;&gt;
     &lt;figure class=&quot;pl-12 md:pl-40 relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000281.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3 m-auto&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000281.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3 m-auto&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;col-span-2&quot;&gt;
     &lt;figure class=&quot;pl-12 md:pl-40 relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000284.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000284.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
@@ -75,14 +75,14 @@
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000286.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000286.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000291.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000291.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
   &lt;div&gt;
@@ -91,47 +91,47 @@
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000304.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000304.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000299.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000299.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;col-span-2&quot;&gt;
     &lt;figure class=&quot;pl-12 md:pl-40 relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220911-L1000340.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220911-L1000340.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;col-span-2&quot;&gt;
     &lt;figure class=&quot;pl-12 md:pl-40 relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220826-MACX6003.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3 m-auto&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220826-MACX6003.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3 m-auto&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220826-MACX5979.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220826-MACX5979.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
   &lt;div&gt;
     &lt;figure class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220826-MACX5983.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220826-MACX5983.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja California&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 
   &lt;div class=&quot;col-span-2&quot;&gt;
     &lt;figure class=&quot;pl-12 md:pl-40 relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-      &lt;img src=&quot;/images/ensenada/20220826-MACX6031.jpg&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
+      &lt;img src=&quot;/images/ensenada/20220826-MACX6031.webp&quot; loading=&quot;lazy&quot; class=&quot;w-full md:w-2/3&quot; alt=&quot;Ensenada, Baja California&quot; data-description=&quot;Ensenada, Baja Califronia&quot; /&gt;
     &lt;/figure&gt;
   &lt;/div&gt;
 &lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/ensenada/20220911-L1000241.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/ensenada/20220911-L1000241.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tijuana</title><link href="https://foto.mariochavez.io/tijuana/2022/09/19/tijuana/" rel="alternate" type="text/html" title="Tijuana" /><published>2022-09-19T18:00:00+00:00</published><updated>2022-09-19T18:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-09-19-tijuana.md</id><content type="html" xml:base="https://foto.mariochavez.io/tijuana/2022/09/19/tijuana/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
