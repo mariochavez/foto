@@ -32,7 +32,7 @@ categories: Theater
   <h3>Créditos</h3>
   <ul>
     <li>Salvador. El niño, la montaña y el mango de Suzanne Lebeau</li>
-    <li>Dirección: Janet Pinela ( miembreo del Sistema Nacional de Creadores de Arte 2019-2022)</li>
+    <li>Dirección: Janet Pinela (miembro del Sistema Nacional de Creadores de Arte 2019-2022)</li>
     <li>Escenografía: Jesús Hernández</li>
     <li>Vestuario: Jerildy Bosch</li>
     <li>Producción: Cuatro Milpas Teatro A.C.</li>
@@ -41,6 +41,7 @@ categories: Theater
       <li>César Fajardo</li>
       <li>Flor Larios</li>
       <li>Paco Novoa</li>
+      <li>Rubí Salas</li>
       <li>Nadia Flores *</li>
       <li>Brenda Gutiérrez *</li>
       <li>Lupita Chávez</li>
