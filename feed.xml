@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-10-11T18:02:29+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Salvador. El niño, la montaña y el mango</title><link href="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/" rel="alternate" type="text/html" title="Salvador. El niño, la montaña y el mango" /><published>2022-10-11T13:00:00+00:00</published><updated>2022-10-11T13:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-10-11-salvador-slp.md</id><content type="html" xml:base="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-10-11T18:37:49+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Salvador. El niño, la montaña y el mango</title><link href="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/" rel="alternate" type="text/html" title="Salvador. El niño, la montaña y el mango" /><published>2022-10-11T13:00:00+00:00</published><updated>2022-10-11T13:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-10-11-salvador-slp.md</id><content type="html" xml:base="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
   &lt;p&gt;La obra de teatro &quot;Salvador, el niño, la montaña y el mango&quot; se presentó en noviembre 2021 dentro del Festival 
     Kuitólil, en las instalaciones del Teatro Polivalente del Centro de las Artes de San Luís Potosí.&lt;/p&gt;
   &lt;p&gt;La serie fotográfica muestra el trabajo de la compañía Cuatro Milpas Teatro y el personal técnico del Teatro Polivalente 
@@ -9,7 +9,7 @@
 &lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7936.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -17,7 +17,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7178.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -25,7 +25,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7185.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -33,7 +33,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7191.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -65,7 +65,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7227.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -81,7 +81,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7244.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -89,7 +89,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7262.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -97,7 +97,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7263.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -105,7 +105,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7275.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -113,7 +113,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7305.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -137,7 +137,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7501.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -145,7 +145,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7507.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -153,7 +153,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7549.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -161,7 +161,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7570.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -169,7 +169,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7581.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -193,7 +193,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7610.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -201,7 +201,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7618.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -209,7 +209,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7629.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -217,7 +217,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7638.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -238,7 +238,7 @@
   &lt;h3&gt;Créditos&lt;/h3&gt;
   &lt;ul&gt;
     &lt;li&gt;Salvador. El niño, la montaña y el mango de Suzanne Lebeau&lt;/li&gt;
-    &lt;li&gt;Dirección: Janet Pinela ( miembreo del Sistema Nacional de Creadores de Arte 2019-2022)&lt;/li&gt;
+    &lt;li&gt;Dirección: Janet Pinela (miembro del Sistema Nacional de Creadores de Arte 2019-2022)&lt;/li&gt;
     &lt;li&gt;Escenografía: Jesús Hernández&lt;/li&gt;
     &lt;li&gt;Vestuario: Jerildy Bosch&lt;/li&gt;
     &lt;li&gt;Producción: Cuatro Milpas Teatro A.C.&lt;/li&gt;
@@ -247,6 +247,7 @@
       &lt;li&gt;César Fajardo&lt;/li&gt;
       &lt;li&gt;Flor Larios&lt;/li&gt;
       &lt;li&gt;Paco Novoa&lt;/li&gt;
+      &lt;li&gt;Rubí Salas&lt;/li&gt;
       &lt;li&gt;Nadia Flores *&lt;/li&gt;
       &lt;li&gt;Brenda Gutiérrez *&lt;/li&gt;
       &lt;li&gt;Lupita Chávez&lt;/li&gt;
