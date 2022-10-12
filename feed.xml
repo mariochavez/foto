@@ -1,4 +1,275 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-10-11T18:37:49+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Salvador. El niño, la montaña y el mango</title><link href="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/" rel="alternate" type="text/html" title="Salvador. El niño, la montaña y el mango" /><published>2022-10-11T13:00:00+00:00</published><updated>2022-10-11T13:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-10-11-salvador-slp.md</id><content type="html" xml:base="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-10-12T19:33:09+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">September 19th earthquake, Colima-Michoacan, Mexico</title><link href="https://foto.mariochavez.io/disasters/2022/10/12/sismo-19s-colima-michoacan/" rel="alternate" type="text/html" title="September 19th earthquake, Colima-Michoacan, Mexico" /><published>2022-10-12T18:00:00+00:00</published><updated>2022-10-12T18:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-10-11-sismo-19s-colima-michoacan.md</id><content type="html" xml:base="https://foto.mariochavez.io/disasters/2022/10/12/sismo-19s-colima-michoacan/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
+  &lt;p&gt;
+    Mexico has a long history of violent earthquakes; two previous on the same date, September 19th but one in 1985 and the second in 2017. It becomes difficult for people not to believe it is just a coincidence. 
+  &lt;/p&gt;
+  &lt;p&gt;
+    This past September 19th, half an hour after the national simulacrum commemorating past earthquakes, a 7.7 earthquake with an epicenter in Coalcoman, Michoacán succumbed to the western zone of Mexico.
+  &lt;/p&gt;
+  &lt;p&gt;
+    A few hours later, after the shock, the report was that the major cities of Michoacán, Colima, and Jalisco had minor damages and people with nervous crises. On the coastal towns of Colima and Michoacán, the story was different.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Five dead, two small children, were the earthquake casualties in Colima state. More than 7,000 houses were damaged, including government buildings and state roads. Damages include homes with cracks that didn&apos;t pose a risk to the structure and places that collapsed or are about to collapse where people lost everything. 
+  &lt;/p&gt;
+  &lt;p&gt;
+    Two primary replicas, 6.9 on September 22th and 5.3 on September 23rd, increased the damages to many homes. Almost a month later, people lived in public parks or moved with family because it was risky to return to their damaged homes.
+  &lt;/p&gt;
+  &lt;p&gt;
+    Help from the government is still not there. The people have started the reconstruction or at least the cleaning of debris to try to rescue what they can to move forward and start over.
+  &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220922-L1006647.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220922-L1006652.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220922-L1006661.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006685.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006694.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006733.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006736.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006743.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006746.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006747.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006749.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006757.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006769.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006773.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006775.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006785.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006794.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006814.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006821.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006841.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006845.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006864.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20220924-L1006867.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006912.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006919.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006924.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006936.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006944.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006957.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006970.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/sismo-19s/20221001-L1006979.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/sismo-19s/20221001-L1006919-head.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/sismo-19s/20221001-L1006919-head.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Salvador. El niño, la montaña y el mango</title><link href="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/" rel="alternate" type="text/html" title="Salvador. El niño, la montaña y el mango" /><published>2022-10-11T18:00:00+00:00</published><updated>2022-10-11T18:00:00+00:00</updated><id>repo://posts.collection/_posts/2022-10-11-salvador-slp.md</id><content type="html" xml:base="https://foto.mariochavez.io/theater/2022/10/11/salvador-slp/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
   &lt;p&gt;La obra de teatro &quot;Salvador, el niño, la montaña y el mango&quot; se presentó en noviembre 2021 dentro del Festival 
     Kuitólil, en las instalaciones del Teatro Polivalente del Centro de las Artes de San Luís Potosí.&lt;/p&gt;
   &lt;p&gt;La serie fotográfica muestra el trabajo de la compañía Cuatro Milpas Teatro y el personal técnico del Teatro Polivalente 
@@ -25,7 +296,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7185.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -33,7 +304,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7191.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -41,7 +312,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7197.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -49,7 +320,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7203.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -65,7 +336,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7227.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -81,7 +352,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7244.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -97,7 +368,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7263.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -105,7 +376,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7275.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -113,7 +384,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7305.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -121,7 +392,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7493.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -129,7 +400,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7496.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -137,7 +408,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7501.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -145,7 +416,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7507.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -153,7 +424,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7549.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -169,7 +440,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7581.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -185,7 +456,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7595.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -201,7 +472,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7618.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -217,7 +488,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7638.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -225,7 +496,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7682.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
