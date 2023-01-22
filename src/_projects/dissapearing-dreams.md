@@ -91,4 +91,6 @@ position: 6
   <p>Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.</p>
   <p>The project started on March 2022, still ongoing, with the support of six families from Red Desaparecidos Colima, A.C., with whom I had a relationship of two years, working and supporting their activities to find their daughters, sons, sisters, and brothers.</p>
   <p>Over the time I have become friends with these families, I have witness firsthand all they must endure continuing their search. I have seen how they have also become victims of indolence and criminalization.</p>
+  <p>The person forced to disappear, disappears on multiple occasions, first physically, then by the authorities who turn them into a number, a file, and finally by society that refuses to see what is happening.</p>
+  <p>This project is important to me because it is an opportunity to present people I only know from what their families tell me about them and through the objects they still have.</p>
 </div>
