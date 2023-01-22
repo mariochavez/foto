@@ -1,4 +1,355 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2022-11-02T20:18:33+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Cofradía de Volcanes</title><link href="https://foto.mariochavez.io/projects/cofradia-de-volcanes/" rel="alternate" type="text/html" title="Cofradía de Volcanes" /><published>2022-11-02T20:18:33+00:00</published><updated>2022-11-02T20:18:33+00:00</updated><id>repo://projects.collection/_projects/cofradia-de-volcanes.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/cofradia-de-volcanes/">&lt;div class=&quot;w-full mt-12&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/projects.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2023-01-22T01:25:19+00:00</updated><id>https://foto.mariochavez.io/feed/projects.xml</id><title type="html">Mario Alberto Chávez | Projects</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Dissapearing Dreams</title><link href="https://foto.mariochavez.io/projects/dissapearing-dreams/" rel="alternate" type="text/html" title="Dissapearing Dreams" /><published>2023-01-22T01:25:19+00:00</published><updated>2023-01-22T01:25:19+00:00</updated><id>repo://projects.collection/_projects/dissapearing-dreams.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/dissapearing-dreams/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+  &lt;p&gt;Since 2006, starting with the &quot;War on drugs&quot; led by former President Felipe Calderón, Mexico has had a humanitarian and violent crisis in almost every city, town, and community in the country.&lt;/p&gt;
+  &lt;p&gt;Violence is present in many forms; organized crime, the Mexican army, and law enforcement agencies take part in it. Forced disappearance is one of the many ways violence is present in families&apos; homes. Last May 2022, the official records accounted for more than 100,000 people officially missing and more than 52,000 bodies in morgues without identification.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;w-full mt-28 grid grid-cols-2 gap-x-2 gap-y-32 justify-between&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
+  
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-2.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;An absent person is known where he or she is; one day, he or she may return. A missing person is someone who seems to have been swallowed by the earth&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-5.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-6.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;We are not looking who is responsible. We want our daughters, sons, mothers, and fathers. Just tell us where they are. We want them dead or alive&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-1.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center col-span-2&quot;&gt;
+        &lt;figure&gt;
+          &lt;div class=&quot;relative&quot;&gt;
+            &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+            &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-22.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/figure&gt;
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-21.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center col-span-2&quot;&gt;
+        &lt;figure&gt;
+          &lt;div class=&quot;relative&quot;&gt;
+            &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+            &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-10.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/figure&gt;
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-18.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;I do not understand the cruelty of wanting to &apos;erase a woman from the earth&apos;; what harm could she have done to them? They also come from a woman.&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center col-span-2&quot;&gt;
+        &lt;figure&gt;
+          &lt;div class=&quot;relative&quot;&gt;
+            &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+            &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-13.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+          &lt;/div&gt;
+        &lt;/figure&gt;
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-16.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-3.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;I told my children, what I am doing for their brother, I would do it for any of you if you disappeared. I need to look for him.&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-19.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-9.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-20.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+    
+  
+    
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+          &lt;p class=&quot;font-marcellus text-2xl p-8 text-gray-600&quot;&gt;&lt;/p&gt;
+        
+
+        
+      &lt;/div&gt;
+
+      &lt;div class=&quot;self-center&quot;&gt;
+        
+
+        
+          &lt;figure&gt;
+            &lt;div class=&quot;relative&quot;&gt;
+              &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+              &lt;img src=&quot;/images/dissapearing/dissapearing-dreams-12.webp&quot; alt=&quot;Dissapearing Dreams&quot; data-description=&quot;Mexico currently has over 100,000 victims of forced disappearances. Parents, children, and siblings are searching for their loved ones, whether they are alive or deceased.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+            &lt;/div&gt;
+          &lt;/figure&gt;
+        
+      &lt;/div&gt;
+    
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;b&gt;Leslie Alejandra Flores Larios&lt;/b&gt;&lt;br /&gt;
+    Disappeared on March 1st, 2017. Villa de Alvarez, Colima. México.&lt;br /&gt;
+    Current age, 29 years old.
+    &lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Christián Nicolás Ortega Velasco&lt;/b&gt;&lt;br /&gt; 
+    Disappeared on June 8th  ,2020. Colima, Colima. México.&lt;br /&gt;
+    Current age, 37 years old.
+    &lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Sergio Humberto de Anda&lt;/b&gt;&lt;br /&gt; 
+    Disappeared on April 11th, 2020. Tecomán, Colima. México.&lt;br /&gt;
+    Current age, 24 years old.
+    &lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Carlos Donaldo Campos Sepúlveda&lt;/b&gt;&lt;br /&gt; 
+    Disappeared on August 19th, 2018. Villa de Álvarez, Colima, México.&lt;br /&gt;
+    Current age, 27 years old.
+    &lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;Luis Fernando Llerenas Quintero&lt;/b&gt;&lt;br /&gt;  
+    Disappeared on Septembre 18th, 2015.&lt;br /&gt;
+    Between Cuauhtémoc, Colima and Tonila, Jalisco, México.&lt;br /&gt;
+    Current age, 28 years old.
+    &lt;/li&gt;
+    &lt;li&gt;&lt;b&gt;César Enrique García Hernández&lt;/b&gt;&lt;br /&gt;  
+    Disappearedon January 4th, 2016. Colima, Colima. México.&lt;br /&gt;
+    Current age, 25 years old.
+    &lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.&lt;/p&gt;
+  &lt;p&gt;The project started on March 2022, still ongoing, with the support of six families from Red Desaparecidos Colima, A.C., with whom I had a relationship of two years, working and supporting their activities to find their daughters, sons, sisters, and brothers.&lt;/p&gt;
+  &lt;p&gt;Over the time I have become friends with these families, I have witness firsthand all they must endure continuing their search. I have seen how they have also become victims of indolence and criminalization.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/dissapearing/dissapearing-dreams-7.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/dissapearing/dissapearing-dreams-7.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Cofradía de Volcanes</title><link href="https://foto.mariochavez.io/projects/cofradia-de-volcanes/" rel="alternate" type="text/html" title="Cofradía de Volcanes" /><published>2023-01-22T01:25:19+00:00</published><updated>2023-01-22T01:25:19+00:00</updated><id>repo://projects.collection/_projects/cofradia-de-volcanes.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/cofradia-de-volcanes/">&lt;div class=&quot;w-full mt-12&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   &lt;figure class=&quot;m-0 md:m-16&quot;&gt;
     &lt;div class=&quot;relative&quot;&gt;
       &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
@@ -39,7 +390,7 @@
   
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/cofradia-volcanes/cofradia-volcanes-color-7.jpg&quot; alt=&quot;Cofradía de Volcanes&quot; data-description=&quot;Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -63,7 +414,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/cofradia-volcanes/cofradia-volcanes-color-39.jpg&quot; alt=&quot;Cofradía de Volcanes&quot; data-description=&quot;Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -71,7 +422,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/cofradia-volcanes/cofradia-volcanes-color-40.jpg&quot; alt=&quot;Cofradía de Volcanes&quot; data-description=&quot;Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -134,7 +485,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/cofradia-volcanes/cofradia-volcanes-color-4.jpg&quot; alt=&quot;Cofradía de Volcanes&quot; data-description=&quot;Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -151,7 +502,7 @@
   
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/cofradia-volcanes/cofradia-volcanes-color-21.jpg&quot; alt=&quot;Cofradía de Volcanes&quot; data-description=&quot;Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -159,7 +510,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/cofradia-volcanes/cofradia-volcanes-color-29.jpg&quot; alt=&quot;Cofradía de Volcanes&quot; data-description=&quot;Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -167,7 +518,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/cofradia-volcanes/cofradia-volcanes-color-42.jpg&quot; alt=&quot;Cofradía de Volcanes&quot; data-description=&quot;Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -221,7 +572,7 @@
     &lt;li&gt;&quot;Cofradía de Volcanes, exposición fotográfica de Mario Chávez&quot;. Agencia f/64, 12/08/2022, &lt;a href=&quot;https://agencia.f64.io/cofradia-de-volcanes-exposicion-fotografica-de-mario-chavez&quot; target=&quot;_blank&quot;&gt;https://agencia.f64.io/cofradia-de-volcanes-exposicion-fotografica-de-mario-chavez&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&quot;Mario Chávez nos entrega la luz con Cofradía de volcanes&quot;. El Comentarios UdC - Sugey Navarro, 13/09/2022, &lt;a href=&quot;https://elcomentario.ucol.mx/columna-divagaciones-de-una-mente-sin-reposo-19/&quot; target=&quot;_blank&quot;&gt;https://elcomentario.ucol.mx/columna-divagaciones-de-una-mente-sin-reposo-19/&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
-&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/cofradia-volcanes/cofradia-volcanes.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/cofradia-volcanes/cofradia-volcanes.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Nunca me voy a transformar en ti</title><link href="https://foto.mariochavez.io/projects/nunca-me-voy-a-transforma-en-ti/" rel="alternate" type="text/html" title="Nunca me voy a transformar en ti" /><published>2022-11-02T20:18:33+00:00</published><updated>2022-11-02T20:18:33+00:00</updated><id>repo://projects.collection/_projects/nunca-me-voy-a-transforma-en-ti.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/nunca-me-voy-a-transforma-en-ti/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/cofradia-volcanes/cofradia-volcanes.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/cofradia-volcanes/cofradia-volcanes.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Nunca me voy a transformar en ti</title><link href="https://foto.mariochavez.io/projects/nunca-me-voy-a-transforma-en-ti/" rel="alternate" type="text/html" title="Nunca me voy a transformar en ti" /><published>2023-01-22T01:25:19+00:00</published><updated>2023-01-22T01:25:19+00:00</updated><id>repo://projects.collection/_projects/nunca-me-voy-a-transforma-en-ti.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/nunca-me-voy-a-transforma-en-ti/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
   &lt;div class=&quot;transition duration-500 ease-in flex flex-nowrap flex-row justify-between&quot; data-book-target=&quot;wrapper&quot;&gt;
     
       
@@ -314,7 +665,7 @@
   &lt;p&gt;Hace algunos meses me mandó un mensaje preguntando sobre mi opinión referente a una cámara que le interesaba comprar. En ese momento inició su historia con la fotografía.&lt;/p&gt;
   &lt;p&gt;Cuando inicié este proyecto se lo envié a Alexis sin decirle mucho, cuando me preguntó en cuanto al título del trabajo le comenté que era alrededor de la pregunta que le hacían de niño sobre a qué se iba a dedicar y su respuesta que no a lo que yo hacía. Me comentó que no recuerda esa respuesta pero que  hoy no la comparte.&lt;/p&gt;
 &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/nunca/start.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/nunca/start.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">El Color del Olvido</title><link href="https://foto.mariochavez.io/projects/color-del-olvido/" rel="alternate" type="text/html" title="El Color del Olvido" /><published>2022-11-02T20:18:33+00:00</published><updated>2022-11-02T20:18:33+00:00</updated><id>repo://projects.collection/_projects/color-del-olvido.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/color-del-olvido/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/nunca/start.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/nunca/start.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">El Color del Olvido</title><link href="https://foto.mariochavez.io/projects/color-del-olvido/" rel="alternate" type="text/html" title="El Color del Olvido" /><published>2023-01-22T01:25:19+00:00</published><updated>2023-01-22T01:25:19+00:00</updated><id>repo://projects.collection/_projects/color-del-olvido.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/color-del-olvido/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
   &lt;div class=&quot;transition duration-500 ease-in flex flex-nowrap flex-row justify-between&quot; data-book-target=&quot;wrapper&quot;&gt;
     
       
@@ -437,7 +788,7 @@
 
   &lt;p&gt;Public and private efforts have been made to restore, rescue, and modernize the historic center. However, they have not been sufficient concerning the economy and the regulation for preserving heritage and failing to involve those who still inhabit it.&lt;/p&gt;
 &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/color/11.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/color/11.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tierra de los Californios</title><link href="https://foto.mariochavez.io/projects/tierra-de-los-californios/" rel="alternate" type="text/html" title="Tierra de los Californios" /><published>2022-11-02T20:18:33+00:00</published><updated>2022-11-02T20:18:33+00:00</updated><id>repo://projects.collection/_projects/tierra-de-los-californios.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/tierra-de-los-californios/">&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/color/11.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/color/11.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Tierra de los Californios</title><link href="https://foto.mariochavez.io/projects/tierra-de-los-californios/" rel="alternate" type="text/html" title="Tierra de los Californios" /><published>2023-01-22T01:25:19+00:00</published><updated>2023-01-22T01:25:19+00:00</updated><id>repo://projects.collection/_projects/tierra-de-los-californios.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/tierra-de-los-californios/">&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
     &lt;figure class=&quot;weight-3&quot;&gt;
@@ -448,7 +799,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 2.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -464,7 +815,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 4.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -480,7 +831,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 6.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -488,7 +839,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 7.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -512,7 +863,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 10.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -520,7 +871,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 11.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -536,7 +887,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 13.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -544,7 +895,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 14.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -568,7 +919,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 17.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain h-[75vh]&quot; loading=&quot;lazy&quot; /&gt;
@@ -576,7 +927,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/californios/Baja Sur - 18.jpg&quot; alt=&quot;Baja California Sur&quot; data-description=&quot;Tierra de los Californios&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -619,7 +970,7 @@
   &lt;p&gt;
     Finally, in 2019 I had the opportunity of this first trip from La Paz to the north to reach Guerrero Negro and back. I made a second trip, 2020, before the closure due to the pandemic, shorter in time but with a similar route to the previous one. Both trips satisfied me and opened a new need to complete and revisit the entire Peninsula with a different vision.
   &lt;/p&gt;
-&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2022-11-02T20:18:33+00:00</published><updated>2022-11-02T20:18:33+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/californios/Baja%20Sur%20-%2012.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Lo Privado de lo Público</title><link href="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/" rel="alternate" type="text/html" title="Lo Privado de lo Público" /><published>2023-01-22T01:25:19+00:00</published><updated>2023-01-22T01:25:19+00:00</updated><id>repo://projects.collection/_projects/lo-privado-de-lo-publico.md</id><content type="html" xml:base="https://foto.mariochavez.io/projects/lo-privado-de-lo-publico/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-12&quot;&gt;
   &lt;p&gt;
     Caminar por las calles de casi cualquier ciudad es una oportunidad para encontrar estos &quot;hacks&quot; o apropiaciones que se realizan por necesidad, oportunismo o comodidad de quienes habitan la ciudad. Estas apropiaciones no siempre están pensadas en el bien común.
   &lt;/p&gt;
@@ -640,7 +991,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20220109-DSCF0810.jpg&quot; alt=&quot;20220109-DSCF0810&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -656,7 +1007,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20210321-DSCF1934.jpg&quot; alt=&quot;20210321-DSCF1934&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -680,7 +1031,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20210808-DSCF7497.jpg&quot; alt=&quot;20210808-DSCF7497&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -696,7 +1047,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211105-_06B7368.jpg&quot; alt=&quot;20211105-_06B7368&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -704,7 +1055,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211106-_06B7446.jpg&quot; alt=&quot;20211106-_06B7446&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -712,7 +1063,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211106-_06B7448.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -720,7 +1071,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211108-_06B8020.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -728,7 +1079,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9391.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -736,7 +1087,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211209-DSCF9392.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -752,7 +1103,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9401.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -760,7 +1111,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9402.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -768,7 +1119,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9403.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -776,7 +1127,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9410.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -792,7 +1143,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9415.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
@@ -808,7 +1159,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/privado-publico/20211210-DSCF9420.jpg&quot; alt=&quot;20211106-_06B7447&quot; data-description=&quot;Lo privado de lo público&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
