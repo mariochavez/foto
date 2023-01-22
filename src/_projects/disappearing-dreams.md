@@ -1,9 +1,9 @@
 ---
 layout: project
-title:  "Dissapearing Dreams"
+title:  "Disappearing Dreams"
 section: Project
 description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
-image: /images/dissapearing/Dissapearing-Dreams-18.jpg
+image: /images/disappearing/Disappearing-Dreams-18.jpg
 public: false
 position: 6
 ---
@@ -14,7 +14,7 @@ position: 6
 </div>
 
 <div class="w-full mt-28 grid grid-cols-1 sm:grid-cols-2 gap-x-2 gap-y-32 justify-between" data-controller="reveal" data-reveal-animation-class="reveal">
-  {% assign photos = site.data.dissapearing %}
+  {% assign photos = site.data.disappearing %}
   {% for photo in photos %}
     {% if photo.position == "all" %}
       <div class="self-center col-span-1 sm:col-span-2">
