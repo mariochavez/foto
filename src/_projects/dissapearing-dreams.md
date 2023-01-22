@@ -13,11 +13,11 @@ position: 6
   <p>Violence is present in many forms; organized crime, the Mexican army, and law enforcement agencies take part in it. Forced disappearance is one of the many ways violence is present in families' homes. Last May 2022, the official records accounted for more than 100,000 people officially missing and more than 52,000 bodies in morgues without identification.</p>
 </div>
 
-<div class="w-full mt-28 grid grid-cols-2 gap-x-2 gap-y-32 justify-between" data-controller="reveal" data-reveal-animation-class="reveal">
+<div class="w-full mt-28 grid grid-cols-1 sm:grid-cols-2 gap-x-2 gap-y-32 justify-between" data-controller="reveal" data-reveal-animation-class="reveal">
   {% assign photos = site.data.dissapearing %}
   {% for photo in photos %}
     {% if photo.position == "all" %}
-      <div class="self-center col-span-2">
+      <div class="self-center col-span-1 sm:col-span-2">
         <figure>
           <div class="relative">
             <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
@@ -27,7 +27,7 @@ position: 6
       </div>
     {% else %}
       <div class="self-center">
-        {% if photo.position == "right" && photo.text != "" %}
+        {% if photo.position == "right" and photo.text != "" %}
           <p class="font-marcellus text-2xl p-8 text-gray-600">{{ photo.text }}</p>
         {% endif %}
 
@@ -42,7 +42,7 @@ position: 6
       </div>
 
       <div class="self-center">
-        {% if photo.position == "left" && photo.text != "" %}
+        {% if photo.position == "left" and photo.text != "" %}
           <p class="font-marcellus text-2xl p-8 text-gray-600">{{ photo.text }}</p>
         {% endif %}
 
