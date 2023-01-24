@@ -1,4 +1,195 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2023-01-22T02:32:00+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">California</title><link href="https://foto.mariochavez.io/california/2022/11/02/california/" rel="alternate" type="text/html" title="California" /><published>2022-11-02T13:00:00+00:00</published><updated>2022-11-02T13:00:00+00:00</updated><id>repo://posts.collection/_posts/22-11-02-california.md</id><content type="html" xml:base="https://foto.mariochavez.io/california/2022/11/02/california/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.0.0">Bridgetown</generator><link href="https://foto.mariochavez.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2023-01-24T20:11:55+00:00</updated><id>https://foto.mariochavez.io/feed.xml</id><title type="html">Mario Alberto Chávez</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Puente Cicatríz</title><link href="https://foto.mariochavez.io/theater/2023/01/23/puente-cicatriz/" rel="alternate" type="text/html" title="Puente Cicatríz" /><published>2023-01-23T18:00:00+00:00</published><updated>2023-01-23T18:00:00+00:00</updated><id>repo://posts.collection/_posts/2023-01-23-puente-cicatriz.md</id><content type="html" xml:base="https://foto.mariochavez.io/theater/2023/01/23/puente-cicatriz/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
+  &lt;p&gt;Puente Cicatriz” es la propuesta de un falso documental llevado al teatro, creado por un grupo interdisciplinario de creadores colimenses y de la Ciudad de México.&lt;/p&gt;
+  &lt;p&gt;El registro gráfico corresponde a la presentación del sábado 14 de enero dentro del quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán, como parte del Mérida Fest 2023.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-14.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain h-1/2 w-auto object-none&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-2.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-3.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-4.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-5.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-6.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-7.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-10.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-8.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-9.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-1.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-11.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-12.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-13.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-15.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain h-1/2 w-auto object-none&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-16.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-17.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-1&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-18.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain h-1/2 w-auto object-none&quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-19.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-2&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-20.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+    
+    &lt;figure class=&quot;weight-3&quot;&gt;
+      &lt;div class=&quot;relative&quot;&gt;
+        &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+        &lt;img src=&quot;/images/puente-cicatriz/puente-cicatriz-21.webp&quot; alt=&quot;Puente Cicatriz&quot; data-description=&quot;Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/figure&gt;
+  
+&lt;/div&gt;
+
+&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
+  &lt;h3&gt;Créditos&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Dirección: Atanasio Cadena&lt;/li&gt;
+    &lt;li&gt;Asistente de Dirección: Flor Larios&lt;/li&gt;
+    &lt;li&gt;Diseño visual y multimedia: Yoatzín Balbuena&lt;/li&gt;
+    &lt;li&gt;Vestuario e Iluminación: Ricardo García Luna&lt;/li&gt;
+    &lt;li&gt;Diseño de Movimiento: Ángel Roa&lt;/li&gt;
+    &lt;li&gt;Diseño escenográfico para giras: Flor Larios y César Fajardo&lt;/li&gt;
+    &lt;li&gt;Actríz&lt;/li&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Carmen Solorio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/puente-cicatriz/20230114-M1009569.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/puente-cicatriz/20230114-M1009569.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">California</title><link href="https://foto.mariochavez.io/california/2022/11/02/california/" rel="alternate" type="text/html" title="California" /><published>2022-11-02T13:00:00+00:00</published><updated>2022-11-02T13:00:00+00:00</updated><id>repo://posts.collection/_posts/22-11-02-california.md</id><content type="html" xml:base="https://foto.mariochavez.io/california/2022/11/02/california/">&lt;div class=&quot;prose lg:prose-xl mx-auto mt-6&quot;&gt;
   &lt;p&gt;Mini serie gráfica de California en una vista breve.&lt;/p&gt;
 &lt;/div&gt;
 
@@ -141,7 +332,7 @@
 &lt;div class=&quot;w-full flex flex-wrap justify-between mt-6 md:mt-0 large&quot; data-controller=&quot;reveal&quot; data-reveal-animation-class=&quot;reveal&quot;&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220922-L1006647.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -149,7 +340,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220922-L1006652.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -157,7 +348,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220922-L1006661.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -173,7 +364,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006694.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -181,7 +372,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006733.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -205,7 +396,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006746.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -229,7 +420,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006757.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -245,7 +436,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006773.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -253,7 +444,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006775.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -269,7 +460,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006794.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -277,7 +468,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006814.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -285,7 +476,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006821.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -317,7 +508,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20220924-L1006867.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -325,7 +516,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20221001-L1006912.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -349,7 +540,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20221001-L1006936.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -357,7 +548,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20221001-L1006944.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -365,7 +556,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20221001-L1006957.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -373,7 +564,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/sismo-19s/20221001-L1006970.webp&quot; alt=&quot;Sismo 19 septiembre, Colima-Michoacán&quot; data-description=&quot;Daños a viviendas durante el sismo 19 de septiembre&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -407,7 +598,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7178.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -415,7 +606,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7185.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -439,7 +630,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7203.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -447,7 +638,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7223.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -455,7 +646,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7227.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -463,7 +654,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7242.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -487,7 +678,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7263.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -503,7 +694,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211105-_06B7305.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -511,7 +702,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7493.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -527,7 +718,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7501.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -535,7 +726,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7507.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -543,7 +734,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-1&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7549.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -551,7 +742,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7570.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -559,7 +750,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-1&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7581.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -575,7 +766,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7595.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -583,7 +774,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-3&quot;&gt;
+    &lt;figure class=&quot;weight-2&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7610.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -591,7 +782,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7618.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
@@ -599,7 +790,7 @@
     &lt;/figure&gt;
   
     
-    &lt;figure class=&quot;weight-2&quot;&gt;
+    &lt;figure class=&quot;weight-3&quot;&gt;
       &lt;div class=&quot;relative&quot;&gt;
         &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
         &lt;img src=&quot;/images/slp-salvador/20211106-_06B7629.webp&quot; alt=&quot;Salvador. El niño, montaña y el mango&quot; data-description=&quot;Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.&quot; class=&quot;w-full h-full object-contain &quot; loading=&quot;lazy&quot; /&gt;
