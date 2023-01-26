@@ -1,7 +1,7 @@
 - name: Puente Cicatriz
   description: Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.
   src: /images/puente-cicatriz/puente-cicatriz-14.webp
-  options: md:h-1/2 md:w-auto md:object-none
+  options: lg:h-1/2 lg:w-auto lg:object-none
 
 - name: Puente Cicatriz
   description: Proceso de montaje y previo a la presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.
@@ -58,7 +58,7 @@
 - name: Puente Cicatriz
   description: Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.
   src: /images/puente-cicatriz/puente-cicatriz-15.webp
-  options: md:h-1/2 md:w-auto md:object-none
+  options: lg:h-1/2 lg:w-auto lg:object-none
 
 - name: Puente Cicatriz
   description: Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.
@@ -71,7 +71,7 @@
 - name: Puente Cicatriz
   description: Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.
   src: /images/puente-cicatriz/puente-cicatriz-18.webp
-  options: md:h-1/2 md:w-auto md:object-none
+  options: lg:h-1/2 lg:w-auto lg:object-none
 
 - name: Puente Cicatriz
   description: Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.

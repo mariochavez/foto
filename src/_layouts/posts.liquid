@@ -8,11 +8,11 @@
       {% render "mobile_navbar", metadata: site.metadata, page: page, collections: collections %}
 
       <div class="w-full flex flex-row">
-        <div class="px-4 sm:px-8 xl:pr-8 relative w-[20rem] hidden lg:block">
+        <div class="px-4 pr-8 hidden lg:block overflow-y-auto fixed right-auto w-80">
           {% render "navbar", metadata: site.metadata, page: page, collections: collections %}
         </div>
 
-        <div class="w-full mx-auto px-4 sm:px-6 md:px-8">
+        <div class="max-w-3xl lg:max-w-[100rem] w-full bg-blue mx-auto px-4 sm:px-6 md:px-8 overflow-y-scroll lg:pl-80">
           {{ content }}
         </div>
       </div>
