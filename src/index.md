@@ -4,10 +4,13 @@
 layout: home
 image: /images/site-image.jpg
 ---
-<div class="relative" data-controller="home">
+<div class="columns-1 md:columns-3 transition-all duration-500 ease-in-out gap-x-8 mt-24">
   {% for photo in site.data.home %}
-    <div class="hidden" data-name="{{ photo.name }}" data-src="{{ photo.src }}" data-home-target="photo"></div>
+    <figure class="mb-8 inline-block align-top">
+      <div class="relative">
+        <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
+        <img src="{{ photo.src }}" alt="{{ photo.name }}" data-description="{{ photo.description }}" class="w-full h-full object-contain transition-all duration-500 ease-in-out" loading="lazy" />
+      </div>
+    </figure>
   {% endfor %}
-  <img class="w-full h-full object-cover p-0 lg:p-6" src="/images/home-1.jpg" alt="Imágen del home" data-home-target="image">
-  <p class="text-sm md:text-base absolute bottom-8 right-8 text-white bg-black bg-opacity-25 p-2 rounded-sm" data-home-target="caption">Baja California Sur &copy; Mario Alberto Chávez</p>
 </div>

@@ -1,5 +1,87 @@
-- name: Baja California Sur &copy; Mario Alberto Chávez
+- name: Ensenada
+  description: Baja California
+  src: /images/ensenada/20220911-L1000284.webp
+
+- name: Cofradía de Volcanes
+  description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
+  src: /images/cofradia-volcanes/cofradia-volcanes-color-21.jpg
+
+- name: Baja California Sur 
+  description: "&copy; Mario Alberto Chávez"
   src: /images/home-1.jpg
 
-- name: Lahar, Colima &copy; Mario Alberto Chávez
-  src: /images/home-2.jpg
+- name: Cofradía de Volcanes
+  description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
+  src: /images/cofradia-volcanes/cofradia-volcanes-bw-9.jpg
+
+- name: Sismo 19 septiembre, Colima-Michoacán 
+  description: Daños a viviendas durante el sismo 19 de septiembre
+  src: /images/sismo-19s/20220922-L1006652.webp
+
+- name: Centro Histórico, Colima
+  description: El color del olvido
+  src: /images/color/07.jpg
+
+- name: Baja California Sur
+  description: Tierra de los Californios
+  src: /images/californios/Baja Sur - 6.jpg
+
+- name: Salvador. El niño, montaña y el mango
+  description: Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.
+  src: /images/slp-salvador/20211106-_06B7682.webp
+
+- name: Lo privado de lo público
+  description: Lo privado de lo público
+  src: /images/privado-publico/20210808-DSCF7497.jpg
+
+- name: Cantar de los cantares
+  description: Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente.
+  src: /images/cantar/20220307-DSCF1482-s.jpg
+
+- name: Cofradía de Volcanes
+  description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
+  src: /images/cofradia-volcanes/cofradia-volcanes-bw-8.jpg
+
+- name: Chayavates de Ixtlahuacán
+  description: Fiesta de los Chayacates
+  src: /images/chayacates/20220106-DSCF0697.jpg
+
+- name: Tijuana
+  description: Baja California
+  src: /images/tijuana/20220827-MACX6148.jpg
+
+- name: San Francisco
+  description: California
+  src: /images/california/20220831-MACX6309.webp
+
+- name: Salvador. El niño, montaña y el mango
+  description: Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.
+  src: /images/slp-salvador/20211106-_06B7618.webp
+
+- name: Cantar de los cantares
+  description: Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente.
+  src: /images/cantar/20220307-DSCF1734-s.jpg
+
+- name: Chayacates de Ixtlahuacán
+  description: Fiesta de los Chayacates
+  src: /images/chayacates/20220106-DSCF0252.jpg
+
+- name: Puente Cicatriz
+  description: Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.
+  src: /images/puente-cicatriz/puente-cicatriz-12.webp
+
+- name: Ensenada
+  description: Baja California
+  src: /images/ensenada/20220911-L1000231.webp
+
+- name: Semana Santa
+  description: Via Crusis, Comala, Colima.
+  src: /images/semana-santa/20220414-DSCF3257.jpg
+
+- name: Semana Santa
+  description: Via Crusis, Comala, Colima.
+  src: /images/semana-santa/20220415-DSCF3311.jpg
+
+- name: Cantar de los cantares
+  description: Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente.
+  src: /images/cantar/20220307-DSCF1758-s.jpg
