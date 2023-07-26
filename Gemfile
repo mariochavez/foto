@@ -20,7 +20,7 @@ gem "bridgetown", "~> 1.0.0"
 
 # Puma is a Rack-compatible server
 # (you can optionally limit this to the "development" group)
-gem "puma", "~> 5.2"
+gem "puma", "~> 6.0"
 
 gem "bridgetown-sitemap", "~> 1.1", :group => :bridgetown_plugins
 

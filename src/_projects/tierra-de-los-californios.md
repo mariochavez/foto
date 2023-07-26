@@ -5,6 +5,7 @@ section: Project
 description: Land of the Californios is a journey through a territory that has been inhabited since prehistory, a difficult territory due to the mountainous heights and its rugged landscape.
 image: /images/californios/Baja Sur - 12.jpg
 position: 2
+public: false
 ---
 
 <div class="w-full flex flex-wrap justify-between mt-6 md:mt-0 large" data-controller="reveal" data-reveal-animation-class="reveal">

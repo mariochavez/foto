@@ -6,6 +6,7 @@ date: 2022-11-02 12:00:00 -0100
 friendly_date: Nov 02, 2022
 image: /images/california/20220828-MACX6210.jpg
 categories: California
+public: false
 ---
 
 <div class="prose lg:prose-xl mx-auto mt-6">

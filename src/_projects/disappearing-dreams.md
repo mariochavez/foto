@@ -4,7 +4,6 @@ title:  "Disappearing Dreams"
 section: Project
 description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
 image: /images/disappearing/Disappearing-Dreams-18.jpg
-public: false
 position: 6
 ---
 
@@ -65,24 +64,24 @@ position: 6
     Disappeared on March 1st, 2017. Villa de Alvarez, Colima. México.<br/>
     Current age, 29 years old.
     </li>
-    <li><b>Christián Nicolás Ortega Velasco</b><br/> 
+    <li><b>Christián Nicolás Ortega Velasco</b><br/>
     Disappeared on June 8th  ,2020. Colima, Colima. México.<br/>
     Current age, 37 years old.
     </li>
-    <li><b>Sergio Humberto de Anda</b><br/> 
+    <li><b>Sergio Humberto de Anda</b><br/>
     Disappeared on April 11th, 2020. Tecomán, Colima. México.<br/>
     Current age, 24 years old.
     </li>
-    <li><b>Carlos Donaldo Campos Sepúlveda</b><br/> 
+    <li><b>Carlos Donaldo Campos Sepúlveda</b><br/>
     Disappeared on August 19th, 2018. Villa de Álvarez, Colima, México.<br/>
     Current age, 27 years old.
     </li>
-    <li><b>Luis Fernando Llerenas Quintero</b><br/>  
+    <li><b>Luis Fernando Llerenas Quintero</b><br/>
     Disappeared on Septembre 18th, 2015.<br/>
     Between Cuauhtémoc, Colima and Tonila, Jalisco, México.<br/>
     Current age, 28 years old.
     </li>
-    <li><b>César Enrique García Hernández</b><br/>  
+    <li><b>César Enrique García Hernández</b><br/>
     Disappeared on January 4th, 2016. Colima, Colima. México.<br/>
     Current age, 25 years old.
     </li>
