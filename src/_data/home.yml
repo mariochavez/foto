@@ -1,38 +1,30 @@
-- name: Ensenada
-  description: Baja California
-  src: /images/ensenada/20220911-L1000284.webp
+- name: Centro Histórico, Colima
+  description: El color del olvido
+  src: /images/color/02.webp
 
 - name: Cofradía de Volcanes
   description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
   src: /images/cofradia-volcanes/cofradia-volcanes-color-21.webp
 
-- name: Baja California Sur 
-  description: "&copy; Mario Alberto Chávez"
-  src: /images/home-1.webp
+- name: Disappearing Dreams
+  description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
+  src: /images/disappearing/disappearing-dreams-2.webp
 
 - name: Cofradía de Volcanes
   description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
   src: /images/cofradia-volcanes/cofradia-volcanes-bw-9.webp
 
-- name: Sismo 19 septiembre, Colima-Michoacán 
-  description: Daños a viviendas durante el sismo 19 de septiembre
-  src: /images/sismo-19s/20220922-L1006652.webp
-
 - name: Centro Histórico, Colima
   description: El color del olvido
   src: /images/color/07.webp
 
-- name: Baja California Sur
-  description: Tierra de los Californios
-  src: /images/californios/Baja Sur - 6.webp
+- name: Disappearing Dreams
+  description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
+  src: /images/disappearing/disappearing-dreams-3.webp
 
-- name: Salvador. El niño, montaña y el mango
-  description: Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.
-  src: /images/slp-salvador/20211106-_06B7682.webp
-
-- name: Lo privado de lo público
-  description: Lo privado de lo público
-  src: /images/privado-publico/20210808-DSCF7497.webp
+- name: Deconstructed nature
+  description: El complicado vínculo entre la humanidad y el mundo natural a menudo se convierte en un ciclo de explotación y alteración.
+  src: /images/deconstructed/side-a.webp
 
 - name: Cantar de los cantares
   description: Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente.
@@ -42,46 +34,30 @@
   description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
   src: /images/cofradia-volcanes/cofradia-volcanes-bw-8.webp
 
-- name: Chayavates de Ixtlahuacán
-  description: Fiesta de los Chayacates
-  src: /images/chayacates/20220106-DSCF0697.webp
+- name: Disappearing Dreams
+  description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
+  src: /images/disappearing/disappearing-dreams-6.webp
 
-- name: Tijuana
-  description: Baja California
-  src: /images/tijuana/20220827-MACX6148.webp
-
-- name: San Francisco
-  description: California
-  src: /images/california/20220831-MACX6309.webp
-
-- name: Salvador. El niño, montaña y el mango
-  description: Presentación en festival Kuitólil en San Luis Potosí. Centro de las Artes.
-  src: /images/slp-salvador/20211106-_06B7618.webp
+- name: Disappearing Dreams
+  description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
+  src: /images/disappearing/disappearing-dreams-18.webp
 
 - name: Cantar de los cantares
   description: Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente.
   src: /images/cantar/20220307-DSCF1734-s.webp
 
-- name: Chayacates de Ixtlahuacán
-  description: Fiesta de los Chayacates
-  src: /images/chayacates/20220106-DSCF0252.webp
-
-- name: Puente Cicatriz
-  description: Presentación en el quinto Festival Internacional de Monólogos del Teatro Casa Tanicho en Mérida, Yucatán.
-  src: /images/puente-cicatriz/puente-cicatriz-12.webp
-
-- name: Ensenada
-  description: Baja California
-  src: /images/ensenada/20220911-L1000231.webp
-
-- name: Semana Santa
-  description: Via Crusis, Comala, Colima.
-  src: /images/semana-santa/20220414-DSCF3257.webp
-
-- name: Semana Santa
-  description: Via Crusis, Comala, Colima.
-  src: /images/semana-santa/20220415-DSCF3311.webp
+- name: Centro Histórico, Colima
+  description: El color del olvido
+  src: /images/color/11.webp
 
 - name: Cantar de los cantares
   description: Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente.
   src: /images/cantar/20220307-DSCF1758-s.webp
+
+- name: Disappearing Dreams
+  description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
+  src: /images/disappearing/disappearing-dreams-20.webp
+
+- name: Cofradía de Volcanes
+  description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
+  src: /images/cofradia-volcanes/cofradia-volcanes-color-42.webp
