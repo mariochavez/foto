@@ -25,7 +25,7 @@ title: Publicaciones recientes
           <div class="flex-shrink-0">
             <a href="{{ post.relative_url }}">
               <span class="sr-only">{{ post.author }}</span>
-              <img class="h-10 w-10 rounded-full" src="/images/mario.jpg" alt="{{ post.author }}">
+              <img class="h-10 w-10 rounded-full" src="/images/mario.webp" alt="{{ post.author }}">
             </a>
           </div>
           <div class="ml-3">

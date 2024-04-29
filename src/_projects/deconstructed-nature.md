@@ -3,7 +3,7 @@ layout: project
 title:  Deconstructed nature
 section: Project
 description: Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings. Traditional photography undergoes digital transformation and inkjet printing, culminating in meticulously reconstructed images, reflecting our ability to shape nature.
-image: /images/deconstructed/deconstructed.jpg
+image: /images/deconstructed/deconstructed.webp
 position: 7
 ---
 
@@ -16,7 +16,7 @@ position: 7
     <figure>
       <div class="relative">
         <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-        <img src="/images/deconstructed/side-a.jpg" alt="Deconstrcuted Side A" data-description="Deconstructed nature. Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings." class="sm:w-1/2 w-full h-full object-contain mx-auto" loading="lazy" />
+        <img src="/images/deconstructed/side-a.webp" alt="Deconstrcuted Side A" data-description="Deconstructed nature. Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings." class="sm:w-1/2 w-full h-full object-contain mx-auto" loading="lazy" />
       </div>
     </figure>
   </div>
@@ -35,7 +35,7 @@ position: 7
     <figure>
       <div class="relative">
         <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-        <img src="/images/deconstructed/side-b.jpg" alt="Deconstrcuted Side B" data-description="Deconstructed nature. Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings." class="sm:w-1/2 w-full h-full object-contain mx-auto" loading="lazy" />
+        <img src="/images/deconstructed/side-b.webp" alt="Deconstrcuted Side B" data-description="Deconstructed nature. Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings." class="sm:w-1/2 w-full h-full object-contain mx-auto" loading="lazy" />
       </div>
     </figure>
   </div>
@@ -50,7 +50,7 @@ position: 7
     <figure>
       <div class="relative">
         <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-        <img src="/images/deconstructed/framed-side-a.jpg" alt="Deconstrcuted Side A" data-description="Deconstructed nature. Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings." class="w-full h-full object-contain mx-auto" loading="lazy" />
+        <img src="/images/deconstructed/framed-side-a.webp" alt="Deconstrcuted Side A" data-description="Deconstructed nature. Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings." class="w-full h-full object-contain mx-auto" loading="lazy" />
       </div>
     </figure>
   </div>

@@ -4,7 +4,7 @@ title: "Puente Cicatríz"
 description: "Obra de teatro 'Salvador. El niño, la montaña y el mango'. Producción de Cuatro Milpas Teatro."
 date: 2023-01-23 12:00:00 -0600
 friendly_date: Ene 23, 2023
-image: /images/puente-cicatriz/20230114-M1009569.jpg
+image: /images/puente-cicatriz/20230114-M1009569.webp
 categories: Theater
 ---
 

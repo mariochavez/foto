@@ -4,7 +4,7 @@ title: "September 19th earthquake, Colima-Michoacan, Mexico"
 description: "A 7.7 earthquake shocked the Mexican Pacific coast; the toll was five deceased people and more than 7,000 damaged houses."
 date: 2022-10-12 12:00:00 -0600
 friendly_date: Oct 12, 2022
-image: /images/sismo-19s/20221001-L1006919-head.jpg
+image: /images/sismo-19s/20221001-L1006919-head.webp
 categories: Disasters
 ---
 

@@ -3,7 +3,7 @@ layout: project
 title:  "Chayacates de Ixtlahuacán"
 section: Fiestas Populares
 description: La fiesta popular de "Los Chayacates de Ixtlahuacán" sucede cada 5 y 6 de Enero en la cabecera municipal de Ixtlahuacán de los Reyes, Colima.
-image: /images/chayacates/20220105-DSCF9643.jpg
+image: /images/chayacates/20220105-DSCF9643.webp
 position: 1
 ---
 
@@ -12,7 +12,7 @@ position: 1
     {% for page in (0..22) %}
       {% assign paddedPage = page | prepend: '00' | slice: -2, 2 %}
       <div class="w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page" data-book-target="page">
-        <img src="{{ "/images/chayacates/chayacates_libro/" | append: paddedPage | append: ".jpg" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
+        <img src="{{ "/images/chayacates/chayacates_libro/" | append: paddedPage | append: ".webp" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
       </div>
     {% endfor %}
   </div>

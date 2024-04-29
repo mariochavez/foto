@@ -4,7 +4,7 @@ title: "California"
 description: Mini serie fotográfica sobre California en una visita breve.
 date: 2022-11-02 12:00:00 -0100
 friendly_date: Nov 02, 2022
-image: /images/california/20220828-MACX6210.jpg
+image: /images/california/20220828-MACX6210.webp
 categories: California
 public: false
 ---

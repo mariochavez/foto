@@ -1,0 +1,50 @@
+#!/bin/bash
+
+# Input directory containing JPG files
+input_dir="./src/images"
+# Backup directory
+backup_dir="./backup/images"
+
+# Function to check if a file is named site-image.jpg
+is_site_image() {
+	[[ "$(basename "$1")" == "site-image.jpg" ]]
+}
+
+# Function to create a WEBP version of a JPG file
+create_webp_version() {
+	local jpg_file="$1"
+	local webp_file="${jpg_file%.jpg}.webp"
+	cwebp -quiet "$jpg_file" -o "$webp_file"
+	echo "Created: $webp_file"
+}
+
+# Traverse the input directory recursively and process each JPG file
+while IFS= read -r -d '' jpg_file; do
+	# Skip if the file is named site-image.jpg
+	if is_site_image "$jpg_file"; then
+		echo "Skipping: $jpg_file (site-image)"
+		continue
+	fi
+
+	# Relative path of the file from the input directory
+	relative_path="${jpg_file#$input_dir/}"
+
+	# Construct the backup directory path
+	backup_path="$backup_dir/$relative_path"
+
+	# Create the directory structure in the backup directory if it doesn't exist
+	mkdir -p "$(dirname "$backup_path")"
+
+	# Move the JPG file to the backup directory
+	mv "$jpg_file" "$backup_path"
+	echo "Moved: $jpg_file -> $backup_path"
+
+	# Check if a corresponding WEBP file exists
+	webp_file="${jpg_file%.jpg}.webp"
+	if [ ! -f "$webp_file" ]; then
+		# Create a WEBP version of the JPG file
+		create_webp_version "$backup_path"
+	else
+		echo "Skipping: $webp_file (already exists)"
+	fi
+done < <(find "$input_dir" -type f -name '*.jpg' -print0)

@@ -3,7 +3,7 @@ layout: project
 title:  "El Color del Olvido"
 section: Project
 description: El Color del Olvido, is a journey thru the historical poligon at Colima city. The images portray colorful abandoned houses far away from their best time and today have no habitants. They have become a fading memory of the city's history turned into ruins.
-image: /images/color/11.jpg
+image: /images/color/11.webp
 position: 3
 ---
 
@@ -12,7 +12,7 @@ position: 3
     {% for page in (0..19) %}
       {% assign paddedPage = page | prepend: '00' | slice: -2, 2 %}
       <div class="w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page" data-book-target="page">
-        <img src="{{ "/images/color/" | append: paddedPage | append: ".jpg" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
+        <img src="{{ "/images/color/" | append: paddedPage | append: ".webp" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
       </div>
     {% endfor %}
   </div>

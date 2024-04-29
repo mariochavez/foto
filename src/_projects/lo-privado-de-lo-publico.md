@@ -3,7 +3,7 @@ layout: project
 title:  "Lo Privado de lo Público"
 section: Project
 description: The Private of the Public is a visual project about how those of us who inhabit a city appropriate the public space, in search of our comfort, barely visible small changes, others more intrusive.
-image: /images/privado-publico/20200918-DSCF0987.jpg
+image: /images/privado-publico/20200918-DSCF0987.webp
 position: 1
 public: false
 ---

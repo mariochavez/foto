@@ -3,14 +3,14 @@ layout: project
 title:  "Cofradía de Volcanes"
 section: Project
 description: Cofradía de Volcanes es un proyecto realizado por los últimos 7 años y que comprende de la exploración del territorio en la región de los estados de Jalisco y Colima en México, donde el autor construye un imaginario visual que reafirma su sentido de pertenencia y arraigo.
-image: /images/cofradia-volcanes/cofradia-volcanes.jpg
+image: /images/cofradia-volcanes/cofradia-volcanes.webp
 position: 5
 ---
 <div class="w-full mt-12" data-controller="reveal" data-reveal-animation-class="reveal">
   <figure class="m-0 md:m-16">
     <div class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cofradia-volcanes/cofradia-volcanes-0.jpg" alt="Cofradía de Volcanes" data-description="Atardecer en el Nevado" class="w-full h-full object-contain reveal" loading="lazy">
+      <img src="/images/cofradia-volcanes/cofradia-volcanes-0.webp" alt="Cofradía de Volcanes" data-description="Atardecer en el Nevado" class="w-full h-full object-contain reveal" loading="lazy">
     </div>
   </figure>
 </div>
@@ -69,7 +69,7 @@ position: 5
   <figure class="m-0 md:m-16">
     <div class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cofradia-volcanes/cofradia-volcanes-group-1.jpg" alt="Cofradía de Volcanes" data-description="Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia." class="w-full h-full object-contain reveal" loading="lazy">
+      <img src="/images/cofradia-volcanes/cofradia-volcanes-group-1.webp" alt="Cofradía de Volcanes" data-description="Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia." class="w-full h-full object-contain reveal" loading="lazy">
     </div>
   </figure>
 </div>
@@ -121,7 +121,7 @@ position: 5
   <figure class="m-0 md:m-16">
     <div class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cofradia-volcanes/cofradia-volcanes-group-2.jpg" alt="Cofradía de Volcanes" data-description="Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia." class="w-full h-full object-contain reveal" loading="lazy">
+      <img src="/images/cofradia-volcanes/cofradia-volcanes-group-2.webp" alt="Cofradía de Volcanes" data-description="Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia." class="w-full h-full object-contain reveal" loading="lazy">
     </div>
   </figure>
 </div>

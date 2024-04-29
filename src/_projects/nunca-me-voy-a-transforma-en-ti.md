@@ -3,7 +3,7 @@ layout: project
 title:  "Nunca me voy a transformar en ti"
 section: Project
 description: Esta es un proyecto personal a partir de la pregunta a mi hijo ¿Qué quieres ser cuando seas grande? y su respuesta que a algo diferente a lo que yo me deicaba, desarrollo de software. Hoy Alexis es desarrollador de software y comenzó con su interés por la fotografía.
-image: /images/nunca/start.jpg
+image: /images/nunca/start.webp
 position: 4
 ---
 
@@ -12,7 +12,7 @@ position: 4
     {% for page in (0..14) %}
       {% assign paddedPage = page | prepend: '00' | slice: -2, 2 %}
       <div class="w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[37rem] bg-gray-100 book-page" data-book-target="page">
-        <img src="{{ "/images/nunca/" | append: paddedPage | append: ".jpg" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
+        <img src="{{ "/images/nunca/" | append: paddedPage | append: ".webp" }}" loading="lazy" class="block max-h-full mx-auto cursor-pointer" />
       </div>
     {% endfor %}
   </div>

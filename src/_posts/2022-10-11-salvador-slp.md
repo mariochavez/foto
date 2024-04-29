@@ -4,7 +4,7 @@ title: "Salvador. El niño, la montaña y el mango"
 description: "Obra de teatro 'Salvador. El niño, la montaña y el mango'. Producción de Cuatro Milpas Teatro."
 date: 2022-10-11 12:00:00 -0600
 friendly_date: Oct 11, 2022
-image: /images/slp-salvador/20211106-_06B7682-head.jpg
+image: /images/slp-salvador/20211106-_06B7682-head.webp
 categories: Theater
 ---
 
