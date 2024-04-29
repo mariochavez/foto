@@ -1,119 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.3.2">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/fiestas-populares.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2024-03-15T18:58:55+00:00</updated><id>https://foto.mariochavez.io/feed/fiestas-populares.xml</id><title type="html">Mario Alberto Chávez | Fiestas-populares</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Chayacates de Ixtlahuacán</title><link href="https://foto.mariochavez.io/fiestas-populares/chayacates-de-ixtlahuacan/" rel="alternate" type="text/html" title="Chayacates de Ixtlahuacán" /><published>2024-03-15T18:58:55+00:00</published><updated>2024-03-15T18:58:55+00:00</updated><id>repo://fiestas-populares.collection/_fiestas-populares/chayacates-de-ixtlahuacan.md</id><content type="html" xml:base="https://foto.mariochavez.io/fiestas-populares/chayacates-de-ixtlahuacan/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://bridgetownrb.com/" version="1.3.4">Bridgetown</generator><link href="https://foto.mariochavez.io/feed/fiestas-populares.xml" rel="self" type="application/atom+xml" /><link href="https://foto.mariochavez.io/" rel="alternate" type="text/html" /><updated>2024-04-29T01:17:37+00:00</updated><id>https://foto.mariochavez.io/feed/fiestas-populares.xml</id><title type="html">Mario Alberto Chávez | Fiestas-populares</title><subtitle>Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.</subtitle><author><name>Mario Alberto Chávez</name></author><entry><title type="html">Chayacates de Ixtlahuacán</title><link href="https://foto.mariochavez.io/fiestas-populares/chayacates-de-ixtlahuacan/" rel="alternate" type="text/html" title="Chayacates de Ixtlahuacán" /><published>2024-04-29T01:17:37+00:00</published><updated>2024-04-29T01:17:37+00:00</updated><id>repo://fiestas-populares.collection/_fiestas-populares/chayacates-de-ixtlahuacan.md</id><content type="html" xml:base="https://foto.mariochavez.io/fiestas-populares/chayacates-de-ixtlahuacan/">&lt;div class=&quot;bg-white whitespace-nowrap overflow-hidden relative mt-12 border rounded&quot; data-controller=&quot;book&quot;&gt;
   &lt;div class=&quot;transition duration-500 ease-in flex flex-nowrap flex-row justify-between&quot; data-book-target=&quot;wrapper&quot;&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/00.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/00.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/01.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/01.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/02.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/02.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/03.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/03.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/04.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/04.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/05.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/05.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/06.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/06.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/07.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/07.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/08.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/08.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/09.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/09.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/10.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/10.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/11.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/11.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/12.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/12.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/13.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/13.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/14.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/14.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/15.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/15.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/16.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/16.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/17.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/17.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/18.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/18.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/19.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/19.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/20.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/20.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/21.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/21.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
       
       &lt;div class=&quot;w-full h-60 inline-block shrink-0 md:h-96 lg:h-[31rem] xl:h-[45rem] bg-gray-100 book-page&quot; data-book-target=&quot;page&quot;&gt;
-        &lt;img src=&quot;/images/chayacates/chayacates_libro/22.jpg&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
+        &lt;img src=&quot;/images/chayacates/chayacates_libro/22.webp&quot; loading=&quot;lazy&quot; class=&quot;block max-h-full mx-auto cursor-pointer&quot; /&gt;
       &lt;/div&gt;
     
   &lt;/div&gt;
@@ -136,7 +136,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220105-DSCF9604.jpg&quot; alt=&quot;20220105-DSCF9604&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220105-DSCF9604.webp&quot; alt=&quot;20220105-DSCF9604&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -145,109 +145,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0052.jpg&quot; alt=&quot;20220106-DSCF0052&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-full&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220105-DSCF9692.jpg&quot; alt=&quot;20220105-DSCF9692&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220105-DSCF9708.jpg&quot; alt=&quot;20220105-DSCF9708&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220105-DSCF9643.jpg&quot; alt=&quot;20220105-DSCF9643&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0064.jpg&quot; alt=&quot;20220106-DSCF0064&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0097.jpg&quot; alt=&quot;20220106-DSCF0097&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0192.jpg&quot; alt=&quot;20220106-DSCF0192&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0214.jpg&quot; alt=&quot;20220106-DSCF0214&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0252.jpg&quot; alt=&quot;20220106-DSCF0252&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0315.jpg&quot; alt=&quot;20220106-DSCF0315&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0255.jpg&quot; alt=&quot;20220106-DSCF0255&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0052.webp&quot; alt=&quot;20220106-DSCF0052&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -256,7 +154,20 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0353.jpg&quot; alt=&quot;20220106-DSCF0353&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220105-DSCF9692.webp&quot; alt=&quot;20220105-DSCF9692&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220105-DSCF9708.webp&quot; alt=&quot;20220105-DSCF9708&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -265,7 +176,20 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0385.jpg&quot; alt=&quot;20220106-DSCF0385&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220105-DSCF9643.webp&quot; alt=&quot;20220105-DSCF9643&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0064.webp&quot; alt=&quot;20220106-DSCF0064&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -274,7 +198,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0248.jpg&quot; alt=&quot;20220106-DSCF0248&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0097.webp&quot; alt=&quot;20220106-DSCF0097&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -283,7 +207,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0377.jpg&quot; alt=&quot;20220106-DSCF0377&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0192.webp&quot; alt=&quot;20220106-DSCF0192&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -292,7 +216,38 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0334.jpg&quot; alt=&quot;20220106-DSCF0334&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0214.webp&quot; alt=&quot;20220106-DSCF0214&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0252.webp&quot; alt=&quot;20220106-DSCF0252&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0315.webp&quot; alt=&quot;20220106-DSCF0315&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0255.webp&quot; alt=&quot;20220106-DSCF0255&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -301,7 +256,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0435.jpg&quot; alt=&quot;20220106-DSCF0435&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0353.webp&quot; alt=&quot;20220106-DSCF0353&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -310,7 +265,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0450.jpg&quot; alt=&quot;20220106-DSCF0450&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0385.webp&quot; alt=&quot;20220106-DSCF0385&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -319,20 +274,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0457.jpg&quot; alt=&quot;20220106-DSCF0457&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
-        &lt;/div&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-    &lt;/figure&gt;
-  
-    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
-      
-        &lt;div class=&quot;&quot;&gt;
-          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0515.jpg&quot; alt=&quot;20220106-DSCF0515&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0248.webp&quot; alt=&quot;20220106-DSCF0248&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -341,7 +283,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0556.jpg&quot; alt=&quot;20220106-DSCF0556&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0377.webp&quot; alt=&quot;20220106-DSCF0377&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -350,7 +292,7 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0627.jpg&quot; alt=&quot;20220106-DSCF0627&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0334.webp&quot; alt=&quot;20220106-DSCF0334&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -359,7 +301,65 @@
       
         &lt;div class=&quot;&quot;&gt;
           &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
-          &lt;img src=&quot;/images/chayacates/20220106-DSCF0697.jpg&quot; alt=&quot;20220106-DSCF0697&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0435.webp&quot; alt=&quot;20220106-DSCF0435&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0450.webp&quot; alt=&quot;20220106-DSCF0450&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0457.webp&quot; alt=&quot;20220106-DSCF0457&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0515.webp&quot; alt=&quot;20220106-DSCF0515&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0556.webp&quot; alt=&quot;20220106-DSCF0556&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-1/2 p-2&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0627.webp&quot; alt=&quot;20220106-DSCF0627&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
+        &lt;/div&gt;
+      
+    &lt;/figure&gt;
+  
+    &lt;figure class=&quot;relative w-full&quot;&gt;
+      
+        &lt;div class=&quot;&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;absolute block inset-0 z-10&quot; data-action=&quot;modal#toggle&quot;&gt;&lt;/a&gt;
+          &lt;img src=&quot;/images/chayacates/20220106-DSCF0697.webp&quot; alt=&quot;20220106-DSCF0697&quot; data-description=&quot;Fiesta de los Chayacates&quot; class=&quot;w-full h-full object-contain&quot; loading=&quot;lazy&quot; /&gt;
         &lt;/div&gt;
       
     &lt;/figure&gt;
@@ -373,4 +373,4 @@
     &lt;li&gt;&quot;El libro “Los Chayacates de Ixtlahuacán. Una historia de tradición y devoción” busca preservar una de las fiestas más antiguas de Colima&quot;. Secretaría de Cultura de México, 01/09/2021, &lt;a href=&quot;https://www.gob.mx/cultura/prensa/el-libro-los-chayacates-de-ixtlahuacan-una-historia-de-tradicion-y-devocion-busca-preservar-una-de-las-fiestas-mas-antiguas-de-colima?idiom=es&quot; target=&quot;_blank&quot;&gt;https://www.gob.mx/cultura/prensa/el-libro-los-chayacates-de-ixtlahuacan-una-historia-de-tradicion-y-devocion-busca-preservar-una-de-las-fiestas-mas-antiguas-de-colima?idiom=es&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 &lt;/div&gt;
-&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/chayacates/20220105-DSCF9643.jpg" /><media:content medium="image" url="https://foto.mariochavez.io/images/chayacates/20220105-DSCF9643.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/p&gt;&lt;/p&gt;</content><author><name>Mario Alberto Chávez</name></author><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://foto.mariochavez.io/images/chayacates/20220105-DSCF9643.webp" /><media:content medium="image" url="https://foto.mariochavez.io/images/chayacates/20220105-DSCF9643.webp" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
