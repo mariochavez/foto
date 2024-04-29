@@ -34,9 +34,12 @@ feed:
     - fiestas-populares
 
 defaults:
-  -
-    values:
+  - values:
       author: Mario Alberto Chávez
+  - scope:
+    path: ""
+    values:
+      image: /images/site-image.jpg
 
 # Other options you might want to investigate:
 #

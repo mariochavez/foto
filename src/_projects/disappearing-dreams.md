@@ -3,7 +3,7 @@ layout: project
 title:  "Disappearing Dreams"
 section: Project
 description: Disappearing Dreams is a collective story of families looking for their loved ones. The goal is to bring visibility to this problem and give the spectator a chance to connect with the person who is gone and their families.
-image: /images/disappearing/Disappearing-Dreams-18.webp
+image: /images/disappearing/site-image.jpg
 position: 6
 ---
 

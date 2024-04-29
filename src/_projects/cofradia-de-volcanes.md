@@ -3,7 +3,7 @@ layout: project
 title:  "Cofradía de Volcanes"
 section: Project
 description: Cofradía de Volcanes es un proyecto realizado por los últimos 7 años y que comprende de la exploración del territorio en la región de los estados de Jalisco y Colima en México, donde el autor construye un imaginario visual que reafirma su sentido de pertenencia y arraigo.
-image: /images/cofradia-volcanes/cofradia-volcanes.webp
+image: /images/cofradia-volcanes/site-image.jpg
 position: 5
 ---
 <div class="w-full mt-12" data-controller="reveal" data-reveal-animation-class="reveal">

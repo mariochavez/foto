@@ -2,7 +2,6 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: home
-image: /images/site-image.jpg
 ---
 <div class="columns-1 md:columns-3 transition-all duration-500 ease-in-out gap-x-8 mt-24">
   {% for photo in site.data.home %}

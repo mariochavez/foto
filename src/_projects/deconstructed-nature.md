@@ -3,7 +3,7 @@ layout: project
 title:  Deconstructed nature
 section: Project
 description: Explore humanity's complex relationship with nature, from disruption to recreation in manicured settings. Traditional photography undergoes digital transformation and inkjet printing, culminating in meticulously reconstructed images, reflecting our ability to shape nature.
-image: /images/deconstructed/deconstructed.webp
+image: /images/deconstructed/site-image.jpg
 position: 7
 ---
 
