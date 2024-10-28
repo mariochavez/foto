@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="{{ site.locale }}">
+  <head>
+    {% render "head", metadata: site.metadata, title: page.title %}
+  </head>
+  <body class="{{ data.layout }} {{ data.page_class }} font-inter antialiased" data-controller="modal">
+    <main class="lg:relative">
+      {% render "mobile_navbar", metadata: site.metadata, page: page, collections: collections %}
+
+      <div class="w-full flex flex-row">
+        <div class="px-4 pr-8 hidden lg:block overflow-y-auto fixed right-auto w-80">
+          {% render "navbar", metadata: site.metadata, page: page, collections: collections %}
+        </div>
+
+        <div class="max-w-3xl lg:max-w-[100rem] w-full bg-blue mx-auto px-4 sm:px-6 md:px-8 overflow-y-scroll lg:pl-80">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+
+    {% render "footer", metadata: site.metadata %}
+
+    <div class="hidden bg-white fixed z-30 inset-0 overflow-none" data-modal-target="modal">
+      <div class="text-sky-600 absolute top-4 left-4">
+        <a href="#" data-action="modal#toggle">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+          </svg>
+        </a>
+      </div>
+
+      <div class="flex flex-col flex-1 h-full w-full justify-center items-center">
+        <figure class="mx-12 py-32">
+          <img data-modal-target="image" class="modal-image"/>
+          <figcaption class="mt-4 ml-24">
+            <h3 class="font-semibold text-gray-700" data-modal-target="title"></h3>
+            <p data-modal-target="description"></p>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7b0b3fbc83734774a2edf512a48744d4"}'></script><!-- End Cloudflare Web Analytics -->
+  </body>
+</html>

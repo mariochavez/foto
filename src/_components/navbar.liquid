@@ -1,0 +1,72 @@
+<div class="">
+  <a href="/">
+    <h2 class="text-sky-900 text-2xl mt-6 font-marcellus antialiased hover:text-gray-900">MarioChávez</h2>
+  </a>
+  <nav class="mt-4 flex flex-col text-left">
+    <h4 class="font-semibold text-gray-700 mt-6 uppercase">Projects</h4>
+    <ul class="mt-2">
+      {% for post in collections.projects.resources %}
+        {% if post.public != false %}
+        <li class="ml-2">
+          <a href="{{ post.relative_url }}" class="group flex items-start py-1 text-gray-600 hover:text-sky-700">
+            <svg width="3" height="24" viewBox="0 -9 3 24" class="mr-2 text-gray-400 overflow-visible group-hover:text-gray-600">
+              <path d="M0 0L3 3L0 6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+            </svg>
+            <span>
+             {{ post.title }}
+            </span>
+          </a>
+        </li>
+      {% endif %}
+      {% endfor %}
+    </ul>
+    <h4 class="font-semibold text-gray-700 mt-6 uppercase">Fiestas Populares</h4>
+    <ul class="mt-2">
+      {% for post in collections.fiestas-populares.resources %}
+        <li class="ml-2">
+          <a href="{{ post.relative_url }}" class="group flex items-start py-1 text-gray-600 hover:text-sky-700">
+            <svg width="3" height="24" viewBox="0 -9 3 24" class="mr-2 text-gray-400 overflow-visible group-hover:text-gray-600">
+              <path d="M0 0L3 3L0 6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"></path>
+            </svg>
+            <span>
+              {{ post.title }}
+            </span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+    <ul>
+      <li>
+        <a href="/posts" class="group flex items-start py-1 text-gray-600 hover:text-sky-700 font-bold">
+          Blog
+        </a>
+      </li>
+      <li>
+        <a href="/about" class="group flex items-start py-1 text-gray-600 hover:text-sky-700 font-bold">
+          About
+        </a>
+      </li>
+      <li class="hidden">
+        <a href="/about" class="group flex items-start py-1 text-gray-600 hover:text-sky-700">
+          Contact
+        </a>
+      </li>
+    </ul>
+    <div class="flex space-x-4 flex-row mt-4">
+      <a href="https://instagram.com/mario_chavez" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600 hover:text-sky-700" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+          <rect x="4" y="4" width="16" height="16" rx="4"></rect>
+          <circle cx="12" cy="12" r="3"></circle>
+          <line x1="16.5" y1="7.5" x2="16.5" y2="7.501"></line>
+        </svg>
+      </a>
+      <a href="https://twitter.com/mario_chavez" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-gray-600 hover:text-sky-700" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+          <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+          <path d="M22 4.01c-1 .49 -1.98 .689 -3 .99c-1.121 -1.265 -2.783 -1.335 -4.38 -.737s-2.643 2.06 -2.62 3.737v1c-3.245 .083 -6.135 -1.395 -8 -4c0 0 -4.182 7.433 4 11c-1.872 1.247 -3.739 2.088 -6 2c3.308 1.803 6.913 2.423 10.034 1.517c3.58 -1.04 6.522 -3.723 7.651 -7.742a13.84 13.84 0 0 0 .497 -3.753c-.002 -.249 1.51 -2.772 1.818 -4.013z"></path>
+        </svg>
+      </a>
+    </div>
+  </nav>
+</div>

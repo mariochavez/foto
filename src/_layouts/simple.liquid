@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="{{ site.locale }}" class="h-full">
+  <head>
+    {% render "head", url: site.url, metadata: site.metadata, title: page.title %}
+  </head>
+  <body class="{{ page.layout }} {{ page.page_class }} font-inter antialiased h-full">
+    {{ content }}
+  </body>
+</html>

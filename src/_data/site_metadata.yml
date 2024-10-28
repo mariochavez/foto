@@ -1,0 +1,16 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.metadata.title }}, {{ site.metadata.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.metadata.myvariable }}.
+
+title: Mario Alberto Chávez
+tagline: Personal Photography Projects
+email: mario@f64.io
+copyright: "&copy; 2023 - Mario Alberto Chávez"
+description: >-
+  Mario Alberto Chávez lives in Colima México where he works on personal photography projects about territory, popular culture, and memory.
+author: Mario Alberto Chávez
+twitter:
+  username: mario_chavez
+  card: summary_large_image
