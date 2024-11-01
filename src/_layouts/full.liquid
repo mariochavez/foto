@@ -8,6 +8,8 @@
       <h1 class="text-sky-700 text-3xl font-marcellus"><span class="text1">Personal</span> <span class="text2">Photography</span> <span class="text3">Projects</span></h1>
     </div>
     <main class="lg:relative initial-content">
+      {% render "mobile_navbar", metadata: site.metadata, page: page, collections: collections %}
+
       <div class="w-full flex flex-row">
         <div class="px-4 pr-8 hidden lg:block overflow-y-auto fixed right-auto w-80">
           {% render "navbar", metadata: site.metadata, page: page, collections: collections %}

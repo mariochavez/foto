@@ -1,8 +1,12 @@
+- name: Enroso a San José de Zapotlán el Grande
+  description: Corte de flor de cempasúchil en San José de Zapotlán el Grande para la elaboración de un enroso a San José.
+  src: /images/enroso/20241020-L1005539.webp
+
 - name: Centro Histórico, Colima
   description: El color del olvido
   src: /images/color/02.webp
-
 - name: Cofradía de Volcanes
+
   description: Exploración del territorio para crear un imaginario visual personal mediante el cual reafirmar mi identidad y sentido de pertenencia.
   src: /images/cofradia-volcanes/cofradia-volcanes-color-21.webp
 
@@ -25,6 +29,10 @@
 - name: Deconstructed nature
   description: El complicado vínculo entre la humanidad y el mundo natural a menudo se convierte en un ciclo de explotación y alteración.
   src: /images/deconstructed/side-a.webp
+
+- name: Enroso a San José de Zapotlán el Grande
+  description: Corte de flor de cempasúchil en San José de Zapotlán el Grande para la elaboración de un enroso a San José.
+  src: /images/enroso/20241020-L1005639.webp
 
 - name: Cantar de los cantares
   description: Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente.
