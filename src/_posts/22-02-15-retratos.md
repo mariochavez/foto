@@ -16,27 +16,27 @@ categories: Portraits
   <div>
     <div>
       <figure class="">
-        <img src="/images/portraits/portrait-10.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-10.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-1.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-1.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-4.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-4.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-8.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-8.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-14.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-14.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
   </div>
@@ -44,22 +44,22 @@ categories: Portraits
   <div>
     <div>
       <figure class="">
-        <img src="/images/portraits/portrait-3.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-3.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-7.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-7.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-6.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-6.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-13.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-13.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
   </div>
@@ -67,27 +67,27 @@ categories: Portraits
   <div>
     <div>
       <figure class="">
-        <img src="/images/portraits/portrait-5.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-5.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-12.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-12.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-9.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-9.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-2.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-2.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
     <div>
       <figure class="mt-12 lg:mt-20">
-        <img src="/images/portraits/portrait-11.jpg" alt="" loading="lazy" class="w-full" />
+        <img src="/images/portraits/portrait-11.webp" alt="" loading="lazy" class="w-full" />
       </figure>
     </div>
   </div>

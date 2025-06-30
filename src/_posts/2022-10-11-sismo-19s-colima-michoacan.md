@@ -10,7 +10,7 @@ categories: Disasters
 
 <div class="prose lg:prose-xl mx-auto mt-6">
   <p>
-    Mexico has a long history of violent earthquakes; two previous on the same date, September 19th but one in 1985 and the second in 2017. It becomes difficult for people not to believe it is just a coincidence. 
+    Mexico has a long history of violent earthquakes; two previous on the same date, September 19th but one in 1985 and the second in 2017. It becomes difficult for people not to believe it is just a coincidence.
   </p>
   <p>
     This past September 19th, half an hour after the national simulacrum commemorating past earthquakes, a 7.7 earthquake with an epicenter in Coalcoman, Michoacán succumbed to the western zone of Mexico.
@@ -19,7 +19,7 @@ categories: Disasters
     A few hours later, after the shock, the report was that the major cities of Michoacán, Colima, and Jalisco had minor damages and people with nervous crises. On the coastal towns of Colima and Michoacán, the story was different.
   </p>
   <p>
-    Five dead, two small children, were the earthquake casualties in Colima state. More than 7,000 houses were damaged, including government buildings and state roads. Damages include homes with cracks that didn't pose a risk to the structure and places that collapsed or are about to collapse where people lost everything. 
+    Five dead, two small children, were the earthquake casualties in Colima state. More than 7,000 houses were damaged, including government buildings and state roads. Damages include homes with cracks that didn't pose a risk to the structure and places that collapsed or are about to collapse where people lost everything.
   </p>
   <p>
     Two primary replicas, 6.9 on September 22th and 5.3 on September 23rd, increased the damages to many homes. Almost a month later, people lived in public parks or moved with family because it was risky to return to their damaged homes.

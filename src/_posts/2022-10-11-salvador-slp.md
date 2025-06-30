@@ -9,9 +9,9 @@ categories: Theater
 ---
 
 <div class="prose lg:prose-xl mx-auto mt-6">
-  <p>La obra de teatro "Salvador, el niño, la montaña y el mango" se presentó en noviembre 2021 dentro del Festival 
+  <p>La obra de teatro "Salvador, el niño, la montaña y el mango" se presentó en noviembre 2021 dentro del Festival
     Kuitólil, en las instalaciones del Teatro Polivalente del Centro de las Artes de San Luís Potosí.</p>
-  <p>La serie fotográfica muestra el trabajo de la compañía Cuatro Milpas Teatro y el personal técnico del Teatro Polivalente 
+  <p>La serie fotográfica muestra el trabajo de la compañía Cuatro Milpas Teatro y el personal técnico del Teatro Polivalente
     durante el montaja de escenografía y programación de luces del día 1</p>
     <p>El segundo día comprende el trabajo en camerinos y la preparación previa a del grupo actoral antes de la tercera llamada.</p>
 </div>

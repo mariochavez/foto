@@ -30,161 +30,161 @@ categories: Dance
   <div class="col-span-2">
     <figure class="pr-12 md:pr-40 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1317-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1317-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="pl-12 md:pl-40 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1339-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1339-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="pr-12 md:pr-40 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1345-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1345-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="pl-12 md:pl-40 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1341-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1341-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div></div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1324-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1324-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1364-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1364-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1351-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1351-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="px-4 md:px-12 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1538-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1538-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="pr-24 md:pr-72 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1458-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1458-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="px-4 md:px-12 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1482-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1482-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="pl-24 md:pl-72 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1432-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1432-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="pr-24 md:pr-72 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1446-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1446-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="px-4 md:px-12 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1448-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1448-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="pt-20 md:pt-40">
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1552-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1552-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1518-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1518-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1589-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1589-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="pt-20 md:pt-40">
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1550-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1550-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div></div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1635-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1635-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1595-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1595-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div></div>
   <div class="col-span-2">
     <figure class="pr-40 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1600-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1600-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="col-span-2">
     <figure class="pl-40 relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1513-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1513-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="pt-40">
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1714-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1714-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1730-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1730-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div></div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1734-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1734-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div>
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1725-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1725-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
   <div class="pt-40">
     <figure class="relative">
       <a href="#" class="absolute block inset-0 z-10" data-action="modal#toggle"></a>
-      <img src="/images/cantar/20220307-DSCF1758-s.jpg" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
+      <img src="/images/cantar/20220307-DSCF1758-s.webp" loading="lazy" class="w-full" alt="Cantar de Cantares" data-description="Creación libre de Janet Pinela, Intérpretes Flor Larios, Rafael Hernández Ramos y Karen Vicente." />
     </figure>
   </div>
 </div>
